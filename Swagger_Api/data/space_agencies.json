@@ -1,0 +1,316 @@
+{
+  "space_agencies": [
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "full_name": "National Aeronautics and Space Administration",
+      "country": "United States",
+      "type": "Government",
+      "established": 1958,
+      "headquarters": "Washington, D.C., United States",
+      "budget": "$25 billion (2024)",
+      "description": "The premier space agency responsible for civilian space exploration, scientific discovery, and aeronautics research. Known for the Apollo moon landings, Space Shuttle program, and International Space Station.",
+      "major_achievements": [
+        "Apollo Moon Landings (1969-1972)",
+        "Hubble Space Telescope (1990)",
+        "Mars Rover missions",
+        "International Space Station",
+        "Voyager missions"
+      ],
+      "current_missions": [
+        "Artemis Moon Program",
+        "Mars Perseverance Rover",
+        "James Webb Space Telescope",
+        "Parker Solar Probe"
+      ],
+      "website": "https://www.nasa.gov",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/300px-NASA_logo.svg.png"
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "full_name": "Space Exploration Technologies Corp.",
+      "country": "United States",
+      "type": "Private",
+      "established": 2002,
+      "headquarters": "Hawthorne, California, United States",
+      "budget": "$8 billion revenue (2023)",
+      "description": "Revolutionary private space company that has transformed space transportation with reusable rockets. Dominates commercial space launch market and developing human spaceflight capabilities.",
+      "major_achievements": [
+        "First private company to reach orbit",
+        "First to dock with ISS",
+        "Reusable Falcon 9 rockets",
+        "Starlink satellite constellation",
+        "Crew Dragon human spaceflight"
+      ],
+      "current_missions": [
+        "Starlink deployment",
+        "Starship development",
+        "ISS crew missions",
+        "Commercial satellite launches"
+      ],
+      "website": "https://www.spacex.com",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/300px-SpaceX-Logo.svg.png"
+    },
+    {
+      "id": "esa",
+      "name": "ESA",
+      "full_name": "European Space Agency",
+      "country": "Europe",
+      "type": "International",
+      "established": 1975,
+      "headquarters": "Paris, France",
+      "budget": "€7.15 billion (2023)",
+      "description": "23-member international organization promoting European cooperation in space activities. Leading Earth observation, space exploration, and satellite navigation programs.",
+      "major_achievements": [
+        "Ariane rocket family",
+        "Galileo navigation system",
+        "Rosetta comet mission",
+        "Huygens Titan landing",
+        "Copernicus Earth observation"
+      ],
+      "current_missions": [
+        "ExoMars rover",
+        "JUICE Jupiter mission",
+        "Euclid dark universe telescope",
+        "BepiColombo Mercury mission"
+      ],
+      "website": "https://www.esa.int",
+      "logo_url": "https://icon2.cleanpng.com/20180611/oih/kisspng-european-space-agency-copernicus-programme-cnes-bu-5b1e8cea93a881.9341177515287288106048.jpg"
+    },
+    {
+      "id": "roscosmos",
+      "name": "Roscosmos",
+      "full_name": "State Space Corporation Roscosmos",
+      "country": "Russia",
+      "type": "Government",
+      "established": 1992,
+      "headquarters": "Moscow, Russia",
+      "budget": "$2.4 billion (2023)",
+      "description": "Russia's state space corporation responsible for space activities including human spaceflight and contributions to the International Space Station.",
+      "major_achievements": [
+        "First human in space (Yuri Gagarin)",
+        "First space station (Salyut)",
+        "Soyuz spacecraft reliability",
+        "Luna program",
+        "Venera Venus missions"
+      ],
+      "current_missions": [
+        "ISS operations",
+        "Luna-25 lunar mission",
+        "Soyuz crew transport",
+        "Satellite launches"
+      ],
+      "website": "https://www.roscosmos.ru",
+      "logo_url": "https://cdn.mos.cms.futurecdn.net/7MZXstVHh4SmkdrmFfCfJ4.jpg"
+    },
+    {
+      "id": "cnsa",
+      "name": "CNSA",
+      "full_name": "China National Space Administration",
+      "country": "China",
+      "type": "Government",
+      "established": 1993,
+      "headquarters": "Beijing, China",
+      "budget": "$8.9 billion (2023)",
+      "description": "China's national space agency overseeing space activities including lunar missions, Mars exploration, and the Tiangong space station program.",
+      "major_achievements": [
+        "Chang'e lunar missions",
+        "Tianwen-1 Mars mission",
+        "Tiangong space station",
+        "First Mars rover landing",
+        "Sample return missions"
+      ],
+      "current_missions": [
+        "Tiangong space station",
+        "Chang'e lunar program",
+        "Mars sample return preparation",
+        "Deep space exploration"
+      ],
+      "website": "http://www.cnsa.gov.cn",
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTug1Dl4B8Bus9dNKeHYkxx3a7xB_5iOuDnMw&s"
+    },
+    {
+      "id": "isro",
+      "name": "ISRO",
+      "full_name": "Indian Space Research Organisation",
+      "country": "India",
+      "type": "Government",
+      "established": 1969,
+      "headquarters": "Bangalore, India",
+      "budget": "$1.9 billion (2023)",
+      "description": "India's space agency known for cost-effective missions including Mars Orbiter Mission and Chandrayaan lunar missions. Pioneer in affordable space technology.",
+      "major_achievements": [
+        "Mars Orbiter Mission (Mangalyaan)",
+        "Chandrayaan lunar missions",
+        "Record 104 satellites in single launch",
+        "Aryabhatta first satellite",
+        "PSLV reliable launcher"
+      ],
+      "current_missions": [
+        "Chandrayaan-3 lunar mission",
+        "Aditya-L1 solar mission",
+        "Gaganyaan human spaceflight",
+        "Venus orbiter mission"
+      ],
+      "website": "https://www.isro.gov.in",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/300px-Indian_Space_Research_Organisation_Logo.svg.png"
+    },
+    {
+      "id": "jaxa",
+      "name": "JAXA",
+      "full_name": "Japan Aerospace Exploration Agency",
+      "country": "Japan",
+      "type": "Government",
+      "established": 2003,
+      "headquarters": "Tokyo, Japan",
+      "budget": "$3.3 billion (2023)",
+      "description": "Japan's aerospace agency formed by merger of three organizations. Leading in asteroid sample return missions and Earth observation satellites.",
+      "major_achievements": [
+        "Hayabusa asteroid sample return",
+        "Akatsuki Venus orbiter",
+        "H-II Transfer Vehicle (HTV)",
+        "Advanced Land Observing Satellite",
+        "IKAROS solar sail"
+      ],
+      "current_missions": [
+        "Hayabusa2 extended mission",
+        "MMX Mars moons mission",
+        "SLIM lunar lander",
+        "Earth observation satellites"
+      ],
+      "website": "https://www.jaxa.jp",
+      "logo_url": "https://w7.pngwing.com/pngs/782/663/png-transparent-jaxa-hd-logo-thumbnail.png"
+    },
+    {
+      "id": "blue_origin",
+      "name": "Blue Origin",
+      "full_name": "Blue Origin LLC",
+      "country": "United States",
+      "type": "Private",
+      "established": 2000,
+      "headquarters": "Kent, Washington, United States",
+      "budget": "$1 billion+ investment (annual)",
+      "description": "Private aerospace company founded by Jeff Bezos, focused on space tourism and developing heavy-lift orbital rockets for space colonization.",
+      "major_achievements": [
+        "New Shepard suborbital flights",
+        "Space tourism operations",
+        "BE-4 engine development",
+        "Reusable rocket technology",
+        "Blue Moon lunar lander concept"
+      ],
+      "current_missions": [
+        "New Shepard tourism flights",
+        "New Glenn orbital rocket",
+        "Blue Moon lunar lander",
+        "Orbital Reef space station"
+      ],
+      "website": "https://www.blueorigin.com",
+      "logo_url": "https://seeklogo.com/images/B/blue-origin-logo-5D6380B50D-seeklogo.com.png"
+    },
+    {
+      "id": "csa",
+      "name": "CSA",
+      "full_name": "Canadian Space Agency",
+      "country": "Canada",
+      "type": "Government",
+      "established": 1989,
+      "headquarters": "Saint-Hubert, Quebec, Canada",
+      "budget": "$494 million CAD (2023)",
+      "description": "Canada's space agency known for robotics expertise, Earth observation satellites, and contributions to international space missions.",
+      "major_achievements": [
+        "Canadarm robotic arm",
+        "Radarsat Earth observation",
+        "MOST space telescope",
+        "ISS contributions",
+        "Dextre robotic system"
+      ],
+      "current_missions": [
+        "Artemis lunar program participation",
+        "Radarsat Constellation Mission",
+        "ISS operations support",
+        "James Webb Space Telescope contributions"
+      ],
+      "website": "https://www.asc-csa.gc.ca",
+      "logo_url": "https://cdn.mos.cms.futurecdn.net/EgvsV3C52i8HQmLUZyEW48.jpg"
+    },
+    {
+      "id": "uae_space",
+      "name": "UAE Space Agency",
+      "full_name": "United Arab Emirates Space Agency",
+      "country": "United Arab Emirates",
+      "type": "Government",
+      "established": 2014,
+      "headquarters": "Abu Dhabi, United Arab Emirates",
+      "budget": "$817 million (2021-2031 plan)",
+      "description": "Rapidly growing space agency focused on Mars exploration, Earth observation, and developing national space capabilities in the Middle East.",
+      "major_achievements": [
+        "Hope Mars mission",
+        "KhalifaSat Earth observation",
+        "First Arab astronaut to ISS",
+        "Mars mission success",
+        "Lunar rover program"
+      ],
+      "current_missions": [
+        "Hope Mars orbiter",
+        "Rashid lunar rover",
+        "Emirates Mission to the Asteroid Belt",
+        "Astronaut program"
+      ],
+      "website": "https://www.space.gov.ae",
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkPczEblqJoWtDAuTOqmbauk-cVY_sTTohcA&s"
+    },
+    {
+      "id": "cnes",
+      "name": "CNES",
+      "full_name": "Centre National d'Études Spatiales",
+      "country": "France",
+      "type": "Government",
+      "established": 1961,
+      "headquarters": "Paris, France",
+      "budget": "€2.44 billion (2023)",
+      "description": "France's space agency, a major contributor to ESA and operator of the Guiana Space Centre for Ariane rocket launches.",
+      "major_achievements": [
+        "Ariane rocket development",
+        "Spot Earth observation satellites",
+        "Corot exoplanet telescope",
+        "Guiana Space Centre operations",
+        "Venus Express mission"
+      ],
+      "current_missions": [
+        "Ariane 6 development",
+        "Pleiades satellites",
+        "SWOT ocean monitoring",
+        "Mars Sample Return participation"
+      ],
+      "website": "https://cnes.fr",
+      "logo_url": "https://icon2.cleanpng.com/20180615/rvq/aa76mqa48.webp"
+    },
+    {
+      "id": "skyroot",
+      "name": "Skyroot Aerospace",
+      "full_name": "Skyroot Aerospace Private Limited",
+      "country": "India",
+      "type": "Private",
+      "established": 2018,
+      "headquarters": "Hyderabad, India",
+      "budget": "$68 million funding raised",
+      "description": "First Indian private company to launch a rocket, developing the Vikram series of launch vehicles for small satellite deployment.",
+      "major_achievements": [
+        "First private Indian rocket launch (Vikram-S)",
+        "Successful suborbital test flight",
+        "Advanced propulsion technology",
+        "3D printed rocket engines",
+        "Small satellite launch capability"
+      ],
+      "current_missions": [
+        "Vikram-1 orbital rocket development",
+        "Commercial satellite launches",
+        "Vikram-2 and Vikram-3 development",
+        "Space technology innovation"
+      ],
+      "website": "https://www.skyroot.in",
+      "logo_url": "https://media.assettype.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2023%2F07%2F22%2Fskyroot-1239669-1690040873.jpg?w=undefined&auto=format%2Ccompress&fit=max"
+    }
+  ]
+}

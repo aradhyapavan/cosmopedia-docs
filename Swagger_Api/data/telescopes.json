@@ -1,0 +1,460 @@
+{
+  "telescopes": [
+    {
+      "id": "galileo_telescope",
+      "name": "Galileo's Telescope",
+      "year": 1609,
+      "type": "Ground-based",
+      "country": "Italy",
+      "agency": "Private",
+      "inventor": "Galileo Galilei",
+      "status": "Decommissioned",
+      "budget": "Unknown",
+      "aperture": "37mm",
+      "description": "The first astronomical telescope that revolutionized astronomy. Galileo used this telescope to discover the moons of Jupiter, phases of Venus, and craters on the Moon.",
+      "key_discoveries": [
+        "Four largest moons of Jupiter",
+        "Phases of Venus",
+        "Lunar craters and mountains",
+        "Stars in the Milky Way"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwa7RRi7JD1V5dQ3wgt3djSPxyx40q4blIoRQ9gTcJ9BIibiNlfqp6kpQXlwzz2z7bZNw&usqp=CAU"
+    },
+    {
+      "id": "newton_reflecting",
+      "name": "Newton's Reflecting Telescope",
+      "year": 1668,
+      "type": "Ground-based",
+      "country": "England",
+      "agency": "Private",
+      "inventor": "Isaac Newton",
+      "status": "Decommissioned",
+      "budget": "Unknown",
+      "aperture": "150mm",
+      "description": "The first working reflecting telescope, using mirrors instead of lenses to avoid chromatic aberration. This design became the foundation for most modern telescopes.",
+      "key_discoveries": [
+        "Demonstrated reflecting telescope principle",
+        "Eliminated chromatic aberration",
+        "Paved way for larger telescopes"
+      ],
+      "image_url": "https://coimages.sciencemuseumgroup.org.uk/346/931/large_smg00183408.jpg"
+    },
+    {
+      "id": "yerkes_refractor",
+      "name": "Yerkes Observatory 40-inch Refractor",
+      "year": 1897,
+      "type": "Ground-based",
+      "country": "United States",
+      "agency": "University of Chicago",
+      "status": "Operational",
+      "budget": "$349,000 (1897)",
+      "aperture": "1.02m",
+      "description": "The largest refractor telescope ever built, still operational today. It represents the pinnacle of refracting telescope technology before reflectors took over.",
+      "key_discoveries": [
+        "Binary star systems",
+        "Stellar spectroscopy advances",
+        "Double star measurements"
+      ],
+      "image_url": "https://img.atlasobscura.com/0lbdWXNFLM1KQgmye384Wxx5i_P_lUiKs96iMn5I-VQ/rt:fit/w:1200/q:80/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNzAx/MTYtYWNhZGVteV8w/LmpwZw.jpg"
+    },
+    {
+      "id": "mount_wilson_100",
+      "name": "Mount Wilson 100-inch Hooker Telescope",
+      "year": 1917,
+      "type": "Ground-based",
+      "country": "United States",
+      "agency": "Carnegie Institution",
+      "status": "Operational",
+      "budget": "$45,000 (1917)",
+      "aperture": "2.5m",
+      "description": "Used by Edwin Hubble to discover that the universe is expanding. This telescope proved that spiral nebulae were actually distant galaxies.",
+      "key_discoveries": [
+        "Expanding universe",
+        "Andromeda Galaxy distance",
+        "Hubble's Law",
+        "Galaxy classification"
+      ],
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2017/10/PADILLA02-1024x681.jpg"
+    },
+    {
+      "id": "palomar_hale",
+      "name": "Palomar 200-inch Hale Telescope",
+      "year": 1948,
+      "type": "Ground-based",
+      "country": "United States",
+      "agency": "Caltech",
+      "status": "Operational",
+      "budget": "$6.5 million (1948)",
+      "aperture": "5.1m",
+      "description": "World's largest telescope for 28 years. The Hale Telescope pioneered many modern astronomical techniques and discovered quasars and pulsars.",
+      "key_discoveries": [
+        "Quasars",
+        "Distant galaxies",
+        "Stellar evolution studies",
+        "Asteroid discoveries"
+      ],
+      "image_url": "https://i.ytimg.com/vi/nV51SYDzTVs/maxresdefault.jpg"
+    },
+    {
+      "id": "hubble_space_telescope",
+      "name": "Hubble Space Telescope",
+      "year": 1990,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA/ESA",
+      "status": "Operational",
+      "budget": "$16 billion (lifetime)",
+      "aperture": "2.4m",
+      "description": "The most famous space telescope that revolutionized astronomy. Operating above Earth's atmosphere, it provides incredibly clear images of the universe.",
+      "key_discoveries": [
+        "Age of the universe (13.8 billion years)",
+        "Dark energy acceleration",
+        "Exoplanet atmospheres",
+        "Deep field images"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/800px-HST-SM4.jpeg"
+    },
+    {
+      "id": "keck_i",
+      "name": "Keck I Telescope",
+      "year": 1993,
+      "type": "Ground-based",
+      "country": "United States",
+      "agency": "Caltech/UC/W.M. Keck Foundation",
+      "status": "Operational",
+      "budget": "$87 million",
+      "aperture": "10m",
+      "description": "First 10-meter segmented mirror telescope. Revolutionary design using 36 hexagonal mirror segments that work together as one large mirror.",
+      "key_discoveries": [
+        "Supermassive black holes",
+        "Exoplanet direct imaging",
+        "Galaxy formation studies",
+        "Dark matter mapping"
+      ],
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4FMy2SNnGXRjzghfKz5EsB.jpg"
+    },
+    {
+      "id": "keck_ii",
+      "name": "Keck II Telescope",
+      "year": 1996,
+      "type": "Ground-based",
+      "country": "United States",
+      "agency": "Caltech/UC/W.M. Keck Foundation",
+      "status": "Operational",
+      "budget": "$87 million",
+      "aperture": "10m",
+      "description": "Twin of Keck I, enabling interferometry when used together. The two telescopes can work as one giant telescope with incredible resolution.",
+      "key_discoveries": [
+        "Stellar interferometry",
+        "Exoplanet characterization",
+        "Active galactic nuclei",
+        "Star formation regions"
+      ],
+      "image_url": "https://keckobservatory.org/wp-content/uploads/2019/02/Keck-Andrew-Hara-06-1024x699.jpg"
+    },
+    {
+      "id": "vlt_antu",
+      "name": "Very Large Telescope - Antu (UT1)",
+      "year": 1998,
+      "type": "Ground-based",
+      "country": "Chile",
+      "agency": "European Southern Observatory",
+      "status": "Operational",
+      "budget": "€500 million (all 4 units)",
+      "aperture": "8.2m",
+      "description": "First of four 8.2-meter VLT units in Chile's Atacama Desert. When working together, they form the world's most advanced optical telescope array.",
+      "key_discoveries": [
+        "Sagittarius A* black hole",
+        "Exoplanet direct imaging",
+        "Galaxy evolution",
+        "Dark energy studies"
+      ],
+      "image_url": "https://www.miguelclaro.com/wp/wp-content/uploads/2016/01/VLT-MilkyWayMoonPanorama-5961-net.jpg"
+    },
+    {
+      "id": "chandra_xray",
+      "name": "Chandra X-ray Observatory",
+      "year": 1999,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA",
+      "status": "Operational",
+      "budget": "$1.65 billion (lifetime)",
+      "aperture": "1.2m (X-ray mirrors)",
+      "description": "Third of NASA's Great Observatories, specializing in X-ray astronomy. It has the finest angular resolution of any X-ray telescope.",
+      "key_discoveries": [
+        "Black hole jets",
+        "Dark matter evidence",
+        "Supernova remnants",
+        "Galaxy cluster evolution"
+      ],
+      "image_url": "https://media2.spaceref.com/news/2009/oochandra_big.jpg"
+    },
+    {
+      "id": "spitzer_space",
+      "name": "Spitzer Space Telescope",
+      "year": 2003,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA",
+      "status": "Decommissioned",
+      "budget": "$1.7 billion (lifetime)",
+      "aperture": "0.85m",
+      "description": "Fourth of NASA's Great Observatories, operated in infrared. Decommissioned in 2020 after 16 years of groundbreaking discoveries.",
+      "key_discoveries": [
+        "Exoplanet atmospheres",
+        "Brown dwarf studies",
+        "Star formation regions",
+        "Galaxy formation in early universe"
+      ],
+      "image_url": "https://revolutionized.com/wp-content/uploads/sites/5/2019/03/spitzer.jpg"
+    },
+    {
+      "id": "kepler_space",
+      "name": "Kepler Space Telescope",
+      "year": 2009,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA",
+      "status": "Decommissioned",
+      "budget": "$692 million",
+      "aperture": "0.95m",
+      "description": "Revolutionary exoplanet hunting telescope that discovered thousands of planets outside our solar system using the transit method.",
+      "key_discoveries": [
+        "Over 2,600 confirmed exoplanets",
+        "Earth-sized planets in habitable zones",
+        "Planetary system architectures",
+        "Statistical analysis of exoplanets"
+      ],
+      "image_url": "https://cdn.britannica.com/50/139550-050-D712855C/conception-Artist-satellite-planets-space-telescope-Kepler.jpg"
+    },
+    {
+      "id": "alma_array",
+      "name": "ALMA (Atacama Large Millimeter Array)",
+      "year": 2011,
+      "type": "Ground-based",
+      "country": "Chile",
+      "agency": "ESO/NRAO/NAOJ",
+      "status": "Operational",
+      "budget": "$1.4 billion",
+      "aperture": "66 antennas (12m & 7m)",
+      "description": "Revolutionary radio telescope array of 66 antennas working together. It can see through cosmic dust to observe star and planet formation.",
+      "key_discoveries": [
+        "Protoplanetary disk structure",
+        "Complex organic molecules in space",
+        "Early galaxy formation",
+        "Star formation processes"
+      ],
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fjbNR8Cnn8LXizm4Vj5jSY.jpg"
+    },
+    {
+      "id": "gran_telescopio_canarias",
+      "name": "Gran Telescopio Canarias",
+      "year": 2009,
+      "type": "Ground-based",
+      "country": "Spain",
+      "agency": "Spain/Mexico/University of Florida",
+      "status": "Operational",
+      "budget": "€130 million",
+      "aperture": "10.4m",
+      "description": "World's largest single-aperture optical telescope. Located in the Canary Islands, it uses a segmented mirror design similar to the Keck telescopes.",
+      "key_discoveries": [
+        "Distant galaxy studies",
+        "Exoplanet characterization",
+        "Stellar evolution",
+        "Galaxy cluster analysis"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsxcT1ScMzjV1vwnrVbQ9ObvhiQWKilWm2w&s"
+    },
+    {
+      "id": "tess",
+      "name": "TESS (Transiting Exoplanet Survey Satellite)",
+      "year": 2018,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA",
+      "status": "Operational",
+      "budget": "$337 million",
+      "aperture": "Four 10.5cm lenses",
+      "description": "Successor to Kepler, TESS surveys the entire sky for exoplanets around the brightest nearby stars, making them ideal targets for follow-up studies.",
+      "key_discoveries": [
+        "Thousands of exoplanet candidates",
+        "Nearby Earth-sized planets",
+        "Multi-planet systems",
+        "Planets around red dwarf stars"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWzeYzo-Od9dgF2QLHxl6IJjTK7A9P-yGVw&s"
+    },
+    {
+      "id": "fast_china",
+      "name": "FAST (Five-hundred-meter Aperture Spherical Telescope)",
+      "year": 2020,
+      "type": "Ground-based",
+      "country": "China",
+      "agency": "Chinese Academy of Sciences",
+      "status": "Operational",
+      "budget": "$180 million",
+      "aperture": "500m",
+      "description": "World's largest single-dish radio telescope. Built in a natural depression in China, it's three times more sensitive than the previous largest radio telescope.",
+      "key_discoveries": [
+        "New pulsars",
+        "Fast radio bursts",
+        "Hydrogen gas mapping",
+        "Deep space radio signals"
+      ],
+      "image_url": "https://hklaureateforum.org/images/science_in_the_community/fast/HKLF_article_banner_R1_200727_.jpg"
+    },
+    {
+      "id": "james_webb",
+      "name": "James Webb Space Telescope",
+      "year": 2021,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA/ESA/CSA",
+      "status": "Operational",
+      "budget": "$10 billion",
+      "aperture": "6.5m",
+      "description": "The largest space telescope ever built and Hubble's successor. Operating in infrared, it can see the earliest galaxies in the universe.",
+      "key_discoveries": [
+        "Earliest galaxies (13.4+ billion years old)",
+        "Exoplanet atmosphere compositions",
+        "Star formation in unprecedented detail",
+        "Galaxy evolution in early universe"
+      ],
+      "image_url": "https://storage.noirlab.edu/media/archives/images/screen/webb_telescope-orig.jpg"
+    },
+    {
+      "id": "euclid_esa",
+      "name": "Euclid Space Telescope",
+      "year": 2023,
+      "type": "Space",
+      "country": "Europe",
+      "agency": "European Space Agency",
+      "status": "Operational",
+      "budget": "€1.4 billion",
+      "aperture": "1.2m",
+      "description": "ESA's dark matter and dark energy survey telescope. It will map the geometry of the universe to understand dark matter and dark energy.",
+      "key_discoveries": [
+        "Dark matter mapping (ongoing)",
+        "Dark energy measurements (ongoing)",
+        "Large-scale structure of universe",
+        "Galaxy evolution studies"
+      ],
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/06/euclid_spacecraft/24912463-1-eng-GB/Euclid_spacecraft_pillars.jpg"
+    },
+    {
+      "id": "extremely_large_telescope",
+      "name": "Extremely Large Telescope (ELT)",
+      "year": 2028,
+      "type": "Ground-based",
+      "country": "Chile",
+      "agency": "European Southern Observatory",
+      "status": "Under Construction",
+      "budget": "€1.3 billion",
+      "aperture": "39m",
+      "description": "Will be the world's largest optical telescope when completed. Its 39-meter segmented mirror will revolutionize ground-based astronomy.",
+      "key_discoveries": [
+        "Direct exoplanet imaging (planned)",
+        "Atmospheric analysis of Earth-like planets",
+        "Early universe studies",
+        "Dark matter and dark energy research"
+      ],
+      "image_url": "https://cdn.eso.org/images/screen/eso1440a.jpg"
+    },
+    {
+      "id": "thirty_meter_telescope",
+      "name": "Thirty Meter Telescope (TMT)",
+      "year": 2030,
+      "type": "Ground-based",
+      "country": "TBD (Hawaii or Canary Islands)",
+      "agency": "International TMT Observatory",
+      "status": "Under Construction",
+      "budget": "$2.65 billion",
+      "aperture": "30m",
+      "description": "International project to build a 30-meter telescope with revolutionary capabilities for studying exoplanets and the early universe.",
+      "key_discoveries": [
+        "Exoplanet characterization (planned)",
+        "First light from the universe",
+        "Galaxy formation studies",
+        "Dark matter research"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjRAhV_7jZFhx6Z9Eo3RnnwlcXgYukWryMQ&s"
+    },
+    {
+      "id": "giant_magellan",
+      "name": "Giant Magellan Telescope",
+      "year": 2031,
+      "type": "Ground-based",
+      "country": "Chile",
+      "agency": "Giant Magellan Telescope Organization",
+      "status": "Under Construction",
+      "budget": "$2 billion",
+      "aperture": "25.4m (equivalent)",
+      "description": "Will use seven 8.4-meter mirrors to create the equivalent of a 25.4-meter telescope. Expected to provide unprecedented resolution of cosmic objects.",
+      "key_discoveries": [
+        "Earth-like exoplanet detection (planned)",
+        "Biomarker detection in exoplanet atmospheres",
+        "Early galaxy formation",
+        "Dark energy measurements"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bhqvQGmtLkFZv7tlBRvNKAdlOsFDa30s3A&s"
+    },
+    {
+      "id": "iras_satellite",
+      "name": "IRAS (Infrared Astronomical Satellite)",
+      "year": 1983,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA/NIVR/SERC",
+      "status": "Decommissioned",
+      "budget": "$500 million",
+      "aperture": "0.57m",
+      "description": "First comprehensive infrared sky survey satellite. Discovered asteroid and comet dust bands, infrared galaxies, and brown dwarf candidates.",
+      "key_discoveries": [
+        "Infrared cirrus clouds",
+        "Asteroid dust bands",
+        "Starburst galaxies",
+        "Brown dwarf candidates"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiOzLM4ZU3SIaHgNGmrDBbkC6Bx_gmtqsVQ&s"
+    },
+    {
+      "id": "compton_gamma",
+      "name": "Compton Gamma Ray Observatory",
+      "year": 1991,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA",
+      "status": "Decommissioned",
+      "budget": "$617 million",
+      "aperture": "Gamma-ray detectors",
+      "description": "Second of NASA's Great Observatories, specialized in gamma-ray astronomy. Operated for 9 years before controlled deorbit in 2000.",
+      "key_discoveries": [
+        "Gamma-ray bursts from distant galaxies",
+        "Antimatter in the galaxy",
+        "Gamma-ray pulsars",
+        "Solar gamma-ray flares"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTRwvGHOS3hIMRJC6aBLuF5ikaIf1Kg9krg&s"
+    },
+    {
+      "id": "fermi_gamma",
+      "name": "Fermi Gamma-ray Space Telescope",
+      "year": 2008,
+      "type": "Space",
+      "country": "United States",
+      "agency": "NASA",
+      "status": "Operational",
+      "budget": "$690 million",
+      "aperture": "Gamma-ray detectors",
+      "description": "Successor to Compton, still operational after 15+ years. Studies the most energetic phenomena in the universe using gamma rays.",
+      "key_discoveries": [
+        "Gamma-ray bubbles from Milky Way center",
+        "Dark matter searches",
+        "Pulsar discoveries",
+        "Active galactic nuclei studies"
+      ],
+      "image_url": "https://cdn.britannica.com/68/141468-050-20F9E6EF/rendition-Gamma-ray-Large-Area-Space-Telescope-artist.jpg"
+    }
+  ]
+}

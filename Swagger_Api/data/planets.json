@@ -1,0 +1,265 @@
+{
+  "planets": [
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "type": "Terrestrial",
+      "distance_from_sun": "57.9 million km",
+      "orbital_period": "88 Earth days",
+      "rotation_period": "59 Earth days",
+      "diameter": "4,879 km",
+      "mass": "3.3 × 10²³ kg",
+      "moons": 0,
+      "atmosphere": "Very thin (oxygen, sodium, hydrogen, helium, potassium)",
+      "surface_temperature": "-173°C to 427°C",
+      "description": "Mercury is the smallest planet in our solar system and the closest to the Sun. It has extreme temperature variations and no atmosphere to speak of.",
+      "key_features": [
+        "Closest planet to the Sun",
+        "Extreme temperature variations",
+        "No moons or rings",
+        "Heavily cratered surface",
+        "Very thin atmosphere"
+      ],
+      "exploration": [
+        "Mariner 10 (1974-1975)",
+        "MESSENGER (2011-2015)",
+        "BepiColombo (ongoing)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/800px-Mercury_in_true_color.jpg",
+      "interesting_facts": [
+        "One day on Mercury lasts about 59 Earth days",
+        "Mercury has no seasons because its axis is not tilted",
+        "It's the second densest planet after Earth"
+      ]
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "type": "Terrestrial",
+      "distance_from_sun": "108.2 million km",
+      "orbital_period": "225 Earth days",
+      "rotation_period": "243 Earth days (retrograde)",
+      "diameter": "12,104 km",
+      "mass": "4.87 × 10²⁴ kg",
+      "moons": 0,
+      "atmosphere": "Dense (96% carbon dioxide, 3.5% nitrogen)",
+      "surface_temperature": "462°C",
+      "description": "Venus is the second planet from the Sun and the hottest planet in our solar system due to its thick atmosphere and greenhouse effect.",
+      "key_features": [
+        "Hottest planet in the solar system",
+        "Thick, toxic atmosphere",
+        "Rotates backwards (retrograde)",
+        "No moons or rings",
+        "Extreme greenhouse effect"
+      ],
+      "exploration": [
+        "Venera missions (Soviet Union)",
+        "Magellan (NASA)",
+        "Venus Express (ESA)",
+        "Akatsuki (JAXA)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/800px-Venus_from_Mariner_10.jpg",
+      "interesting_facts": [
+        "Venus rotates backwards compared to most planets",
+        "A day on Venus is longer than its year",
+        "Surface pressure is 90 times that of Earth"
+      ]
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "type": "Terrestrial",
+      "distance_from_sun": "149.6 million km",
+      "orbital_period": "365.25 days",
+      "rotation_period": "24 hours",
+      "diameter": "12,756 km",
+      "mass": "5.97 × 10²⁴ kg",
+      "moons": 1,
+      "atmosphere": "78% nitrogen, 21% oxygen, trace gases",
+      "surface_temperature": "-88°C to 58°C",
+      "description": "Earth is the third planet from the Sun and the only known planet to harbor life. It has liquid water, a protective atmosphere, and a suitable temperature range.",
+      "key_features": [
+        "Only known planet with life",
+        "Liquid water on surface",
+        "Protective magnetic field",
+        "One natural satellite (Moon)",
+        "Diverse ecosystems"
+      ],
+      "exploration": [
+        "Continuous human habitation",
+        "Thousands of satellites",
+        "International Space Station",
+        "Earth observation missions"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/800px-The_Earth_seen_from_Apollo_17.jpg",
+      "interesting_facts": [
+        "71% of Earth's surface is covered by water",
+        "Earth's magnetic field protects us from solar radiation",
+        "The only planet not named after a Roman or Greek god"
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "type": "Terrestrial",
+      "distance_from_sun": "227.9 million km",
+      "orbital_period": "687 Earth days",
+      "rotation_period": "24.6 hours",
+      "diameter": "6,792 km",
+      "mass": "6.39 × 10²³ kg",
+      "moons": 2,
+      "atmosphere": "Thin (95% carbon dioxide, 3% nitrogen, 2% argon)",
+      "surface_temperature": "-87°C to -5°C",
+      "description": "Mars is the fourth planet from the Sun, known as the Red Planet due to iron oxide on its surface. It has the largest volcano and canyon in the solar system.",
+      "key_features": [
+        "Known as the Red Planet",
+        "Polar ice caps",
+        "Largest volcano (Olympus Mons)",
+        "Deepest canyon (Valles Marineris)",
+        "Evidence of ancient water"
+      ],
+      "exploration": [
+        "Viking missions (1976)",
+        "Mars Pathfinder (1997)",
+        "Mars rovers (Spirit, Opportunity, Curiosity, Perseverance)",
+        "Mars Reconnaissance Orbiter"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/800px-OSIRIS_Mars_true_color.jpg",
+      "interesting_facts": [
+        "Mars has the largest dust storms in the solar system",
+        "A day on Mars is very similar to Earth (24.6 hours)",
+        "Mars has two small moons: Phobos and Deimos"
+      ]
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "type": "Gas Giant",
+      "distance_from_sun": "778.5 million km",
+      "orbital_period": "12 Earth years",
+      "rotation_period": "9.9 hours",
+      "diameter": "142,984 km",
+      "mass": "1.90 × 10²⁷ kg",
+      "moons": 95,
+      "atmosphere": "89% hydrogen, 10% helium, traces of methane, water, ammonia",
+      "surface_temperature": "-108°C",
+      "description": "Jupiter is the largest planet in our solar system, a gas giant with a Great Red Spot storm and dozens of moons including the four largest: Io, Europa, Ganymede, and Callisto.",
+      "key_features": [
+        "Largest planet in the solar system",
+        "Great Red Spot storm",
+        "95 known moons",
+        "Strong magnetic field",
+        "Ring system"
+      ],
+      "exploration": [
+        "Pioneer 10 & 11",
+        "Voyager 1 & 2",
+        "Galileo orbiter",
+        "Juno mission (ongoing)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/800px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+      "interesting_facts": [
+        "Jupiter could fit all other planets inside it",
+        "It acts as a 'cosmic vacuum cleaner' protecting inner planets",
+        "The Great Red Spot is a storm larger than Earth"
+      ]
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "type": "Gas Giant",
+      "distance_from_sun": "1.43 billion km",
+      "orbital_period": "29 Earth years",
+      "rotation_period": "10.7 hours",
+      "diameter": "120,536 km",
+      "mass": "5.68 × 10²⁶ kg",
+      "moons": 146,
+      "atmosphere": "96% hydrogen, 3% helium, traces of methane and ammonia",
+      "surface_temperature": "-139°C",
+      "description": "Saturn is the sixth planet from the Sun, famous for its spectacular ring system. It's a gas giant with many moons, including Titan which has a thick atmosphere.",
+      "key_features": [
+        "Spectacular ring system",
+        "146 known moons",
+        "Less dense than water",
+        "Hexagonal storm at north pole",
+        "Titan has thick atmosphere"
+      ],
+      "exploration": [
+        "Pioneer 11",
+        "Voyager 1 & 2",
+        "Cassini-Huygens mission",
+        "Dragonfly mission (planned for Titan)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/800px-Saturn_during_Equinox.jpg",
+      "interesting_facts": [
+        "Saturn would float in water if there was a bathtub big enough",
+        "Its rings are made mostly of ice particles",
+        "Titan is larger than Mercury"
+      ]
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "type": "Ice Giant",
+      "distance_from_sun": "2.87 billion km",
+      "orbital_period": "84 Earth years",
+      "rotation_period": "17.2 hours (retrograde)",
+      "diameter": "51,118 km",
+      "mass": "8.68 × 10²⁵ kg",
+      "moons": 27,
+      "atmosphere": "83% hydrogen, 15% helium, 2% methane",
+      "surface_temperature": "-197°C",
+      "description": "Uranus is the seventh planet from the Sun, an ice giant that rotates on its side. It has a faint ring system and 27 known moons.",
+      "key_features": [
+        "Rotates on its side (98° axial tilt)",
+        "Coldest planetary atmosphere",
+        "Faint ring system",
+        "27 known moons",
+        "Made of water, methane, and ammonia ices"
+      ],
+      "exploration": [
+        "Voyager 2 (only spacecraft to visit)",
+        "Hubble Space Telescope observations",
+        "Ground-based telescopes"
+      ],
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/p/i/a/0/PIA01492-1.jpg?w=2188&h=2185&fit=clip&crop=faces%2Cfocalpoint",
+      "interesting_facts": [
+        "Uranus rotates on its side, possibly due to an ancient collision",
+        "It has seasons that last 21 Earth years each",
+        "Its rings were discovered in 1977"
+      ]
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "type": "Ice Giant",
+      "distance_from_sun": "4.50 billion km",
+      "orbital_period": "165 Earth years",
+      "rotation_period": "16.1 hours",
+      "diameter": "49,528 km",
+      "mass": "1.02 × 10²⁶ kg",
+      "moons": 16,
+      "atmosphere": "80% hydrogen, 19% helium, 1% methane",
+      "surface_temperature": "-201°C",
+      "description": "Neptune is the eighth and outermost planet in our solar system. It's an ice giant with the fastest winds in the solar system and a large moon called Triton.",
+      "key_features": [
+        "Windiest planet (up to 2,100 km/h)",
+        "Deep blue color from methane",
+        "16 known moons",
+        "Triton orbits backwards",
+        "Faint ring system"
+      ],
+      "exploration": [
+        "Voyager 2 (only spacecraft to visit)",
+        "Hubble Space Telescope",
+        "Ground-based observations"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg/800px-Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg",
+      "interesting_facts": [
+        "Neptune has the fastest winds in the solar system",
+        "It was the first planet discovered through mathematical prediction",
+        "Triton is likely a captured Kuiper Belt object"
+      ]
+    }
+  ]
+}

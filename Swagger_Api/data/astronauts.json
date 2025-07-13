@@ -1,0 +1,962 @@
+{
+  "astronauts": [
+    {
+      "id": "thomas_pesquet",
+      "name": "Thomas Pesquet",
+      "agency": "European Space Agency",
+      "type": "Government",
+      "country": "France",
+      "birth_year": 1978,
+      "birth_place": "Rouen, France",
+      "missions_count": 2,
+      "total_space_time": "396 days",
+      "spacewalks": 6,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/thomas2520pesquet_image_20200102120546.jpeg",
+      "description": "Thomas Pesquet is a French aerospace engineer, pilot, and astronaut of the European Space Agency. He is the youngest astronaut to be selected for a long duration mission to the International Space Station.",
+      "notable_missions": [
+        "Proxima Mission (ISS Expedition 50/51)",
+        "Alpha Mission (ISS Expedition 65/66)"
+      ],
+      "achievements": [
+        "First French ISS commander",
+        "Most spacewalks by a European astronaut",
+        "Photographer and social media ambassador"
+      ]
+    },
+    {
+      "id": "claude_nicollier",
+      "name": "Claude Nicollier",
+      "agency": "European Space Agency",
+      "type": "Government",
+      "country": "Switzerland",
+      "birth_year": 1944,
+      "birth_place": "Vevey, Switzerland",
+      "missions_count": 4,
+      "total_space_time": "42 days",
+      "spacewalks": 1,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/claude2520nicollier_image_20181127203218.jpg",
+      "description": "Claude Nicollier is a Swiss astronaut who flew on four Space Shuttle missions. He was the first astronaut from Switzerland and conducted the first spacewalk by a non-US, non-Russian astronaut.",
+      "notable_missions": [
+        "STS-46 (1992)",
+        "STS-61 Hubble Servicing Mission 1 (1993)",
+        "STS-75 (1996)",
+        "STS-103 Hubble Servicing Mission 3A (1999)"
+      ],
+      "achievements": [
+        "First Swiss astronaut",
+        "First non-US/Russian spacewalk",
+        "Hubble Space Telescope servicing missions"
+      ]
+    },
+    {
+      "id": "tim_peake",
+      "name": "Tim Peake",
+      "agency": "European Space Agency",
+      "type": "Government",
+      "country": "United Kingdom",
+      "birth_year": 1972,
+      "birth_place": "Chichester, England",
+      "missions_count": 1,
+      "total_space_time": "186 days",
+      "spacewalks": 1,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/tim_peake_image_20230120154350.jpg",
+      "description": "Timothy Nigel Peake is a British Army Air Corps officer and astronaut with the European Space Agency. He was the first British ESA astronaut and the second British citizen to visit the International Space Station.",
+      "notable_missions": [
+        "Principia Mission (ISS Expedition 46/47)"
+      ],
+      "achievements": [
+        "First British ESA astronaut",
+        "London Marathon runner in space",
+        "Educational outreach pioneer"
+      ]
+    },
+    {
+      "id": "buzz_aldrin",
+      "name": "Buzz Aldrin",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1930,
+      "birth_place": "Glen Ridge, New Jersey",
+      "missions_count": 2,
+      "total_space_time": "12 days",
+      "spacewalks": 2,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/buzz_aldrin_image_20220911034547.jpeg",
+      "description": "Edwin Eugene 'Buzz' Aldrin Jr. is an American former astronaut, engineer and fighter pilot. He was the second human to walk on the Moon during the Apollo 11 mission in 1969.",
+      "notable_missions": [
+        "Gemini 12 (1966)",
+        "Apollo 11 Moon Landing (1969)"
+      ],
+      "achievements": [
+        "Second human to walk on the Moon",
+        "Pioneered spacewalk techniques",
+        "Space advocacy and Mars exploration"
+      ]
+    },
+    {
+      "id": "chris_hadfield",
+      "name": "Chris Hadfield",
+      "agency": "Canadian Space Agency",
+      "type": "Government",
+      "country": "Canada",
+      "birth_year": 1959,
+      "birth_place": "Sarnia, Ontario",
+      "missions_count": 3,
+      "total_space_time": "166 days",
+      "spacewalks": 2,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chris_hadfield_image_20220911034200.jpeg",
+      "description": "Chris Austin Hadfield is a Canadian retired astronaut, engineer, and former Royal Canadian Air Force fighter pilot. He was the first Canadian to perform a spacewalk and served as commander of the International Space Station.",
+      "notable_missions": [
+        "STS-74 (1995)",
+        "STS-100 (2001)",
+        "ISS Expedition 34/35 (2012-2013)"
+      ],
+      "achievements": [
+        "First Canadian spacewalk",
+        "First Canadian ISS commander",
+        "Social media space ambassador"
+      ]
+    },
+    {
+      "id": "david_saint_jacques",
+      "name": "David Saint-Jacques",
+      "agency": "Canadian Space Agency",
+      "type": "Government",
+      "country": "Canada",
+      "birth_year": 1970,
+      "birth_place": "Quebec City, Quebec",
+      "missions_count": 1,
+      "total_space_time": "204 days",
+      "spacewalks": 1,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/david_saint-jac_image_20220911034207.jpeg",
+      "description": "David Saint-Jacques is a Canadian astronaut, physician, and engineer. He holds the record for the longest single spaceflight by a Canadian astronaut.",
+      "notable_missions": [
+        "ISS Expedition 58/59 (2018-2019)"
+      ],
+      "achievements": [
+        "Longest Canadian spaceflight",
+        "Physician and engineer background",
+        "Robotic arm operations specialist"
+      ]
+    },
+    {
+      "id": "anne_mcclain",
+      "name": "Anne McClain",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1979,
+      "birth_place": "Spokane, Washington",
+      "missions_count": 1,
+      "total_space_time": "204 days",
+      "spacewalks": 2,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/anne2520mcclain_image_20181127210625.jpg",
+      "description": "Anne Charlotte McClain is an American astronaut, engineer, and former U.S. Army officer. She was selected as part of NASA's 21st astronaut group in 2013.",
+      "notable_missions": [
+        "ISS Expedition 58/59 (2018-2019)"
+      ],
+      "achievements": [
+        "West Point graduate",
+        "Combat helicopter pilot",
+        "Artemis program candidate"
+      ]
+    },
+    {
+      "id": "andrew_morgan",
+      "name": "Andrew R. Morgan",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1976,
+      "birth_place": "Morgantown, West Virginia",
+      "missions_count": 1,
+      "total_space_time": "272 days",
+      "spacewalks": 7,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/andrew_r._morga_image_20220911034204.jpeg",
+      "description": "Andrew Richard Morgan is an American astronaut, physician, and U.S. Army officer. He served as a flight engineer on the International Space Station for Expeditions 60, 61, and 62.",
+      "notable_missions": [
+        "ISS Expedition 60/61/62 (2019-2020)"
+      ],
+      "achievements": [
+        "Emergency medicine physician",
+        "U.S. Army Special Operations",
+        "Seven spacewalks in one mission"
+      ]
+    },
+    {
+      "id": "nick_hague",
+      "name": "Nick Hague",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1975,
+      "birth_place": "Belleville, Kansas",
+      "missions_count": 2,
+      "total_space_time": "203 days",
+      "spacewalks": 3,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nick_hague_image_20220911034312.jpeg",
+      "description": "Tyler Nicklaus 'Nick' Hague is an American astronaut and U.S. Space Force colonel. He survived an in-flight abort during Soyuz MS-10 and later completed successful missions to the ISS.",
+      "notable_missions": [
+        "Soyuz MS-10 (Launch abort, 2018)",
+        "ISS Expedition 59/60 (2019)",
+        "ISS Expedition 68 (2022-2023)"
+      ],
+      "achievements": [
+        "U.S. Space Force officer",
+        "Survived launch abort",
+        "Test pilot background"
+      ]
+    },
+    {
+      "id": "terry_virts",
+      "name": "Terry W. Virts",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1967,
+      "birth_place": "Baltimore, Maryland",
+      "missions_count": 2,
+      "total_space_time": "213 days",
+      "spacewalks": 3,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terry_w._virts_image_20220911033815.jpeg",
+      "description": "Terry Wayne Virts Jr. is a retired American astronaut, test pilot, and colonel in the U.S. Air Force. He served as commander of the International Space Station during Expedition 43.",
+      "notable_missions": [
+        "STS-130 (2010)",
+        "ISS Expedition 42/43 (2014-2015)"
+      ],
+      "achievements": [
+        "ISS commander",
+        "F-16 test pilot",
+        "Space photographer"
+      ]
+    },
+    {
+      "id": "alexander_gerst",
+      "name": "Alexander Gerst",
+      "agency": "European Space Agency",
+      "type": "Government",
+      "country": "Germany",
+      "birth_year": 1976,
+      "birth_place": "Künzelsau, Germany",
+      "missions_count": 2,
+      "total_space_time": "362 days",
+      "spacewalks": 1,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/alexander2520gerst_image_20181127211820.jpg",
+      "description": "Alexander Gerst is a German astronaut and geophysicist. He was the second German citizen to visit the International Space Station and served as ISS commander during Expedition 57.",
+      "notable_missions": [
+        "Blue Dot Mission (ISS Expedition 40/41, 2014)",
+        "Horizons Mission (ISS Expedition 56/57, 2018)"
+      ],
+      "achievements": [
+        "First German ISS commander",
+        "Geophysicist and volcanologist",
+        "Science experiment specialist"
+      ]
+    },
+    {
+      "id": "richard_mastracchio",
+      "name": "Richard Mastracchio",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1960,
+      "birth_place": "Waterbury, Connecticut",
+      "missions_count": 4,
+      "total_space_time": "228 days",
+      "spacewalks": 9,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/richard_mastrac_image_20220911033746.jpeg",
+      "description": "Richard Alan Mastracchio is an American astronaut and engineer. He flew on four space missions during his career and accumulated significant spacewalk experience.",
+      "notable_missions": [
+        "STS-106 (2000)",
+        "STS-118 (2007)",
+        "STS-131 (2010)",
+        "ISS Expedition 38/39 (2013-2014)"
+      ],
+      "achievements": [
+        "Nine spacewalks",
+        "Engineering background",
+        "Shuttle and ISS veteran"
+      ]
+    },
+    {
+      "id": "vladimir_dzhanibekov",
+      "name": "Vladimir Dzhanibekov",
+      "agency": "Russian Federal Space Agency (ROSCOSMOS)",
+      "type": "Government",
+      "country": "Russia",
+      "birth_year": 1942,
+      "birth_place": "Iskandar, Uzbekistan",
+      "missions_count": 5,
+      "total_space_time": "145 days",
+      "spacewalks": 2,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vladimir2520dzhanibekov_image_20181128230017.jpg",
+      "description": "Vladimir Aleksandrovich Dzhanibekov is a former Soviet cosmonaut who flew five missions. He is famous for his dramatic rescue mission to the Salyut 7 space station.",
+      "notable_missions": [
+        "Soyuz 27 (1978)",
+        "Soyuz 39 (1981)",
+        "Soyuz T-6 (1982)",
+        "Soyuz T-12 (1984)",
+        "Soyuz T-13 Salyut 7 rescue (1985)"
+      ],
+      "achievements": [
+        "Salyut 7 rescue mission",
+        "Five space missions",
+        "Test pilot background"
+      ]
+    },
+    {
+      "id": "john_young",
+      "name": "John Young",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1930,
+      "birth_place": "San Francisco, California",
+      "missions_count": 6,
+      "total_space_time": "34 days",
+      "spacewalks": 0,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/john2520young_image_20190426143657.jpeg",
+      "description": "John Watts Young was an American astronaut, naval officer and aviator, test pilot, and aeronautical engineer. He flew six space missions during the Gemini, Apollo, and Space Shuttle programs.",
+      "notable_missions": [
+        "Gemini 3 (1965)",
+        "Gemini 10 (1966)",
+        "Apollo 10 (1969)",
+        "Apollo 16 Moon landing (1972)",
+        "STS-1 first Space Shuttle (1981)",
+        "STS-9 (1983)"
+      ],
+      "achievements": [
+        "Ninth person to walk on the Moon",
+        "First Space Shuttle pilot",
+        "Only person to fly Gemini, Apollo, and Shuttle"
+      ]
+    },
+    {
+      "id": "gene_cernan",
+      "name": "Gene Cernan",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1934,
+      "birth_place": "Chicago, Illinois",
+      "missions_count": 3,
+      "total_space_time": "23 days",
+      "spacewalks": 1,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gene2520cernan_image_20190426143647.jpeg",
+      "description": "Eugene Andrew Cernan was an American astronaut, naval aviator, electrical engineer, aeronautical engineer, and fighter pilot. He was the last human to walk on the Moon.",
+      "notable_missions": [
+        "Gemini 9A (1966)",
+        "Apollo 10 (1969)",
+        "Apollo 17 Moon landing (1972)"
+      ],
+      "achievements": [
+        "Last human to walk on the Moon",
+        "Apollo 17 commander",
+        "Three space missions"
+      ]
+    },
+    {
+      "id": "michael_collins",
+      "name": "Michael Collins",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1930,
+      "birth_place": "Rome, Italy",
+      "missions_count": 2,
+      "total_space_time": "11 days",
+      "spacewalks": 1,
+      "photo_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/michael_collins_image_20210428162316.jpeg",
+      "description": "Michael Collins was an American astronaut who flew the Apollo 11 command module Columbia around the Moon while his crewmates Neil Armstrong and Buzz Aldrin made the first crewed Moon landing.",
+      "notable_missions": [
+        "Gemini 10 (1966)",
+        "Apollo 11 (1969)"
+      ],
+      "achievements": [
+        "Apollo 11 command module pilot",
+        "First person to fly solo around far side of Moon",
+        "Test pilot and Air Force officer"
+      ]
+    },
+    {
+      "id": "neil_armstrong",
+      "name": "Neil Armstrong",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1930,
+      "birth_place": "Wapakoneta, Ohio",
+      "missions_count": 2,
+      "total_space_time": "8 days",
+      "spacewalks": 1,
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/800px-Neil_Armstrong_pose.jpg",
+      "description": "Neil Alden Armstrong was an American astronaut and aeronautical engineer who was the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.",
+      "notable_missions": [
+        "Gemini 8 (1966)",
+        "Apollo 11 Moon landing (1969)"
+      ],
+      "achievements": [
+        "First human to walk on the Moon",
+        "Famous 'one small step' quote",
+        "Test pilot and engineer"
+      ]
+    },
+    {
+      "id": "yuri_gagarin",
+      "name": "Yuri Gagarin",
+      "agency": "Soviet Space Program",
+      "type": "Government",
+      "country": "Russia",
+      "birth_year": 1934,
+      "birth_place": "Klushino, Russia",
+      "missions_count": 1,
+      "total_space_time": "1 day",
+      "spacewalks": 0,
+      "photo_url": "https://cdn.britannica.com/54/8354-050-B6B3B6EA/Valentina-Tereshkova-space-orbit-spacecraft-Vostok-6-June-1963.jpg",
+      "description": "Yuri Alekseyevich Gagarin was a Soviet pilot and cosmonaut who became the first human to journey into outer space, achieving a major milestone in the Space Race.",
+      "notable_missions": [
+        "Vostok 1 (1961)"
+      ],
+      "achievements": [
+        "First human in space",
+        "Completed first orbital spaceflight",
+        "Hero of the Soviet Union"
+      ]
+    },
+    {
+      "id": "valentina_tereshkova",
+      "name": "Valentina Tereshkova",
+      "agency": "Soviet Space Program",
+      "type": "Government",
+      "country": "Russia",
+      "birth_year": 1937,
+      "birth_place": "Maslennikovo, Russia",
+      "missions_count": 1,
+      "total_space_time": "3 days",
+      "spacewalks": 0,
+      "photo_url": "https://m.media-amazon.com/images/M/MV5BOTVjNWVmY2UtZWM2NC00Mzg2LWI0YmEtMDljNDI2MGM4Njc4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Valentina Vladimirovna Tereshkova is a Russian former cosmonaut. She was the first woman to travel to space, orbiting Earth 48 times aboard Vostok 6 in 1963.",
+      "notable_missions": [
+        "Vostok 6 (1963)"
+      ],
+      "achievements": [
+        "First woman in space",
+        "48 Earth orbits",
+        "Youngest woman in space at 26"
+      ]
+    },
+    {
+      "id": "sally_ride",
+      "name": "Sally Ride",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1951,
+      "birth_place": "Los Angeles, California",
+      "missions_count": 2,
+      "total_space_time": "14 days",
+      "spacewalks": 0,
+      "photo_url": "https://static01.nyt.com/images/2012/07/24/science/24ride1/24ride1-superJumbo.jpg",
+      "description": "Sally Kristen Ride was an American astronaut and physicist. She became the first American woman in space when she flew aboard the Space Shuttle Challenger in 1983.",
+      "notable_missions": [
+        "STS-7 (1983)",
+        "STS-41-G (1984)"
+      ],
+      "achievements": [
+        "First American woman in space",
+        "Physicist and educator",
+        "Youngest American astronaut at 32"
+      ]
+    },
+    {
+      "id": "sunita_williams",
+      "name": "Sunita Williams",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1965,
+      "birth_place": "Euclid, Ohio",
+      "missions_count": 2,
+      "total_space_time": "322 days",
+      "spacewalks": 7,
+      "photo_url": "https://etedge-insights.com/wp-content/uploads/2024/05/Sunita_01.png",
+      "description": "Sunita Lyn Williams is an American astronaut and United States Navy officer who formerly held the records for most spacewalks by a woman and most spacewalk time for a woman.",
+      "notable_missions": [
+        "ISS Expedition 14/15 (2006-2007)",
+        "ISS Expedition 32/33 (2012)"
+      ],
+      "achievements": [
+        "Record holder for spacewalks by a woman",
+        "Longest spaceflight by a woman at the time",
+        "First person to run a marathon in space"
+      ]
+    },
+    {
+      "id": "kalpana_chawla",
+      "name": "Kalpana Chawla",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1962,
+      "birth_place": "Karnal, India",
+      "missions_count": 2,
+      "total_space_time": "31 days",
+      "spacewalks": 0,
+      "photo_url": "https://www.spacefacts.de/bios/portraits_hi/astronauts/chawla_kalpana.jpg",
+      "description": "Kalpana Chawla was an American astronaut and aerospace engineer who was the first woman of Indian origin to fly to space. She died in the Columbia disaster in 2003.",
+      "notable_missions": [
+        "STS-87 (1997)",
+        "STS-107 Columbia (2003)"
+      ],
+      "achievements": [
+        "First Indian-American woman in space",
+        "Aerospace engineer and pilot",
+        "Posthumous Congressional Space Medal of Honor"
+      ]
+    },
+    {
+      "id": "mae_jemison",
+      "name": "Mae Jemison",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1956,
+      "birth_place": "Decatur, Alabama",
+      "missions_count": 1,
+      "total_space_time": "8 days",
+      "spacewalks": 0,
+      "photo_url": "https://images.newscientist.com/wp-content/uploads/2021/07/16120548/mae_jemison2exd3p7.jpg",
+      "description": "Mae Carol Jemison is an American engineer, physician, and former NASA astronaut. She became the first African-American woman to travel to space when she served as a mission specialist aboard the Space Shuttle Endeavour.",
+      "notable_missions": [
+        "STS-47 (1992)"
+      ],
+      "achievements": [
+        "First African-American woman in space",
+        "Physician and engineer",
+        "Advocate for science literacy and STEM education"
+      ]
+    },
+    {
+      "id": "scott_kelly",
+      "name": "Scott Kelly",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1964,
+      "birth_place": "Orange, New Jersey",
+      "missions_count": 4,
+      "total_space_time": "520 days",
+      "spacewalks": 3,
+      "photo_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2010/10/scott_kelly/10039547-2-eng-GB/Scott_Kelly_pillars.jpg",
+      "description": "Scott Joseph Kelly is an American engineer, retired astronaut, and naval aviator. He is known for his year-long mission aboard the International Space Station.",
+      "notable_missions": [
+        "STS-103 (1999)",
+        "STS-118 (2007)",
+        "ISS Expedition 25/26 (2010-2011)",
+        "ISS Expedition 43/44/45/46 Year in Space (2015-2016)"
+      ],
+      "achievements": [
+        "American record holder for most consecutive days in space",
+        "Twin study participant with Mark Kelly",
+        "Author and space advocate"
+      ]
+    },
+    {
+      "id": "mark_kelly",
+      "name": "Mark Kelly",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1964,
+      "birth_place": "Orange, New Jersey",
+      "missions_count": 4,
+      "total_space_time": "54 days",
+      "spacewalks": 3,
+      "photo_url": "https://cdn.mos.cms.futurecdn.net/8FCtVBUjbUszYpVAhnY72h.jpg",
+      "description": "Mark Edward Kelly is an American politician, former astronaut, and retired U.S. Navy captain. He is the twin brother of astronaut Scott Kelly and currently serves as a U.S. Senator.",
+      "notable_missions": [
+        "STS-108 (2001)",
+        "STS-121 (2006)",
+        "STS-124 (2008)",
+        "STS-134 (2011)"
+      ],
+      "achievements": [
+        "Space Shuttle commander",
+        "Twin study participant with Scott Kelly",
+        "U.S. Senator from Arizona"
+      ]
+    },
+    {
+      "id": "peggy_whitson",
+      "name": "Peggy Whitson",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1960,
+      "birth_place": "Mount Ayr, Iowa",
+      "missions_count": 3,
+      "total_space_time": "665 days",
+      "spacewalks": 10,
+      "photo_url": "https://www.nasa.gov/wp-content/uploads/2015/11/peggy-whitson.png?w=768",
+      "description": "Peggy Annette Whitson is an American biochemistry researcher and retired NASA astronaut. She holds the record for most spacewalks by a woman and was the first female commander of the ISS.",
+      "notable_missions": [
+        "ISS Expedition 5 (2002)",
+        "ISS Expedition 16 (2007-2008)",
+        "ISS Expedition 50/51/52 (2016-2017)"
+      ],
+      "achievements": [
+        "Most spacewalks by a woman (10)",
+        "First female ISS commander",
+        "Oldest woman to fly in space"
+      ]
+    },
+    {
+      "id": "kathryn_sullivan",
+      "name": "Kathryn Sullivan",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1951,
+      "birth_place": "Paterson, New Jersey",
+      "missions_count": 3,
+      "total_space_time": "22 days",
+      "spacewalks": 1,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPm8bzvwn3iUfv44NbE4pYpCwPd3QCFxQVw&s",
+      "description": "Kathryn Dwyer Sullivan is an American geologist, oceanographer, and former NASA astronaut and U.S. Navy officer. She was the first American woman to perform a spacewalk.",
+      "notable_missions": [
+        "STS-41-G (1984)",
+        "STS-31 Hubble deployment (1990)",
+        "STS-45 (1992)"
+      ],
+      "achievements": [
+        "First American woman to perform spacewalk",
+        "Hubble Space Telescope deployment",
+        "Only person to both walk in space and reach deepest point in ocean"
+      ]
+    },
+    {
+      "id": "ellen_ochoa",
+      "name": "Ellen Ochoa",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1958,
+      "birth_place": "Los Angeles, California",
+      "missions_count": 4,
+      "total_space_time": "41 days",
+      "spacewalks": 0,
+      "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2022_41/3575973/221013-ellen-ochoa-3x2-portrait-se-119p.jpg",
+      "description": "Ellen Ochoa is an American engineer, former astronaut and former director of the Johnson Space Center. She became the first Hispanic woman to go to space when she served on STS-56 in 1993.",
+      "notable_missions": [
+        "STS-56 (1993)",
+        "STS-66 (1994)",
+        "STS-96 (1999)",
+        "STS-110 (2002)"
+      ],
+      "achievements": [
+        "First Hispanic woman in space",
+        "Former director of Johnson Space Center",
+        "Engineer and inventor"
+      ]
+    },
+    {
+      "id": "roberta_bondar",
+      "name": "Roberta Bondar",
+      "agency": "Canadian Space Agency",
+      "type": "Government",
+      "country": "Canada",
+      "birth_year": 1945,
+      "birth_place": "Sault Ste. Marie, Ontario",
+      "missions_count": 1,
+      "total_space_time": "8 days",
+      "spacewalks": 0,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1o39sK5WwgvbZRb3sanHsnKyCaj1WnCD85A&s",
+      "description": "Roberta Lynn Bondar is a Canadian astronaut, neurologist, and consultant. She was the first Canadian woman and the first neurologist to travel to space.",
+      "notable_missions": [
+        "STS-42 (1992)"
+      ],
+      "achievements": [
+        "First Canadian woman in space",
+        "First neurologist in space",
+        "Chancellor of Trent University"
+      ]
+    },
+    {
+      "id": "julie_payette",
+      "name": "Julie Payette",
+      "agency": "Canadian Space Agency",
+      "type": "Government",
+      "country": "Canada",
+      "birth_year": 1963,
+      "birth_place": "Montreal, Quebec",
+      "missions_count": 2,
+      "total_space_time": "25 days",
+      "spacewalks": 0,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX13fXWJoE2j8lZ9l-puW0sV7hsP5ttynz-g&s",
+      "description": "Julie Payette is a Canadian engineer, former astronaut, and former Governor General of Canada. She was the second Canadian woman to fly in space.",
+      "notable_missions": [
+        "STS-96 (1999)",
+        "STS-127 (2009)"
+      ],
+      "achievements": [
+        "Second Canadian woman in space",
+        "Former Governor General of Canada",
+        "Engineer and computer scientist"
+      ]
+    },
+    {
+      "id": "shannon_lucid",
+      "name": "Shannon Lucid",
+      "agency": "National Aeronautics and Space Administration",
+      "type": "Government",
+      "country": "United States",
+      "birth_year": 1943,
+      "birth_place": "Shanghai, China",
+      "missions_count": 5,
+      "total_space_time": "223 days",
+      "spacewalks": 0,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzZiHICg0kbczCxbew2llnsq72U8ljeVT1A&s",
+      "description": "Shannon Matilda Wells Lucid is an American biochemist and retired NASA astronaut. She held the record for the longest duration spaceflight by a woman until 2007.",
+      "notable_missions": [
+        "STS-51-G (1985)",
+        "STS-34 (1989)",
+        "STS-43 (1991)",
+        "STS-58 (1993)",
+        "Mir EO-21 (1996)"
+      ],
+      "achievements": [
+        "Record for longest spaceflight by American woman",
+        "Five Space Shuttle missions",
+        "Congressional Space Medal of Honor"
+      ]
+    },
+    {
+      "id": "claudie_haignere",
+      "name": "Claudie Haigneré",
+      "agency": "European Space Agency / CNES",
+      "type": "Government",
+      "country": "France",
+      "birth_year": 1957,
+      "birth_place": "Le Creusot, France",
+      "missions_count": 2,
+      "total_space_time": "25 days",
+      "spacewalks": 0,
+      "photo_url": "https://www.francebleu.fr/s3/cruiser-production/2021/10/054d3238-20a8-4ba8-a23e-0fd93cd5a1fc/1200x680_000_app2001070569049.jpg",
+      "description": "Claudie Haigneré is a French doctor, politician, and former astronaut with the Centre National d'Études Spatiales and the European Space Agency. She was the first French woman in space.",
+      "notable_missions": [
+        "Mir Cassiopée mission (1996)",
+        "ISS Andromède mission (2001)"
+      ],
+      "achievements": [
+        "First French woman in space",
+        "Doctor and rheumatologist",
+        "Former French government minister"
+      ]
+    },
+    {
+      "id": "samantha_cristoforetti",
+      "name": "Samantha Cristoforetti",
+      "agency": "European Space Agency",
+      "type": "Government",
+      "country": "Italy",
+      "birth_year": 1977,
+      "birth_place": "Milan, Italy",
+      "missions_count": 2,
+      "total_space_time": "369 days",
+      "spacewalks": 1,
+      "photo_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/08/samantha_cristoforetti_onboard_the_international_space_station/17632013-1-eng-GB/Samantha_Cristoforetti_onboard_the_International_Space_Station_article.jpg",
+      "description": "Samantha Cristoforetti is an Italian European Space Agency astronaut, former Italian Air Force pilot and engineer. She holds the record for the longest uninterrupted spaceflight by a European astronaut.",
+      "notable_missions": [
+        "ISS Expedition 42/43 Futura mission (2014-2015)",
+        "ISS Expedition 67/68 Minerva mission (2022)"
+      ],
+      "achievements": [
+        "Longest spaceflight by European astronaut",
+        "First Italian woman in space",
+        "Italian Air Force pilot and engineer"
+      ]
+    },
+    {
+      "id": "helen_sharman",
+      "name": "Helen Sharman",
+      "agency": "Soviet Space Program",
+      "type": "Government",
+      "country": "United Kingdom",
+      "birth_year": 1963,
+      "birth_place": "Sheffield, England",
+      "missions_count": 1,
+      "total_space_time": "8 days",
+      "spacewalks": 0,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTbq2mdSILNA7oSb6hjk-oBhYRMqpKVYHxQ&s",
+      "description": "Helen Patricia Sharman is a British chemist and astronaut who became the first British person, and the first Western European woman, to travel to space.",
+      "notable_missions": [
+        "Soyuz TM-12 Juno mission (1991)"
+      ],
+      "achievements": [
+        "First British astronaut",
+        "First Western European woman in space",
+        "Chemist and food technologist"
+      ]
+    },
+    {
+      "id": "anousheh_ansari",
+      "name": "Anousheh Ansari",
+      "agency": "Space Adventures / Roscosmos",
+      "type": "Private",
+      "country": "United States",
+      "birth_year": 1966,
+      "birth_place": "Mashhad, Iran",
+      "missions_count": 1,
+      "total_space_time": "10 days",
+      "spacewalks": 0,
+      "photo_url": "https://motivationalspeakersagency.co.uk/sites/default/files/styles/artists_thumbnail/public/2025-02/anousheh%20b.webp?itok=Q4yS2wcP",
+      "description": "Anousheh Ansari is an Iranian-American engineer and co-founder of Prodea Systems. She was the first Iranian in space, the first Muslim woman in space, and the first self-funded woman to fly to the ISS.",
+      "notable_missions": [
+        "Soyuz TMA-9 (2006)"
+      ],
+      "achievements": [
+        "First Iranian and Muslim woman in space",
+        "First self-funded woman to visit ISS",
+        "Entrepreneur and space advocate"
+      ]
+    },
+    {
+      "id": "liu_yang",
+      "name": "Liu Yang",
+      "agency": "China National Space Administration",
+      "type": "Government",
+      "country": "China",
+      "birth_year": 1978,
+      "birth_place": "Zhengzhou, China",
+      "missions_count": 2,
+      "total_space_time": "196 days",
+      "spacewalks": 1,
+      "photo_url": "https://cdn.britannica.com/84/161084-050-6257C838/Liu-Yang-astronaut.jpg",
+      "description": "Liu Yang is a Chinese military pilot and astronaut who became the first Chinese woman to travel to space when she flew aboard Shenzhou 9 in 2012.",
+      "notable_missions": [
+        "Shenzhou 9 (2012)",
+        "Shenzhou 14 (2022)"
+      ],
+      "achievements": [
+        "First Chinese woman in space",
+        "People's Liberation Army Air Force pilot",
+        "Space station construction missions"
+      ]
+    },
+    {
+      "id": "wang_yaping",
+      "name": "Wang Yaping",
+      "agency": "China National Space Administration",
+      "type": "Government",
+      "country": "China",
+      "birth_year": 1980,
+      "birth_place": "Yantai, China",
+      "missions_count": 2,
+      "total_space_time": "197 days",
+      "spacewalks": 2,
+      "photo_url": "https://assets.entrepreneur.com/content/3x2/2000/1636387196-GettyImages-1235887698.jpg",
+      "description": "Wang Yaping is a Chinese military pilot and astronaut. She became the first Chinese woman to perform a spacewalk and conducted the first live educational broadcast from space for Chinese students.",
+      "notable_missions": [
+        "Shenzhou 10 (2013)",
+        "Shenzhou 13 (2021-2022)"
+      ],
+      "achievements": [
+        "First Chinese woman to perform spacewalk",
+        "Educational space broadcasts",
+        "People's Liberation Army Air Force pilot"
+      ]
+    },
+    {
+      "id": "chiaki_mukai",
+      "name": "Chiaki Mukai",
+      "agency": "Japan Aerospace Exploration Agency",
+      "type": "Government",
+      "country": "Japan",
+      "birth_year": 1952,
+      "birth_place": "Tatebayashi, Japan",
+      "missions_count": 2,
+      "total_space_time": "23 days",
+      "spacewalks": 0,
+      "photo_url": "https://humans-in-space.jaxa.jp/astronaut/item/mukai-chiaki/mukai-chiaki_career02.jpg",
+      "description": "Chiaki Mukai is a Japanese doctor and former JAXA astronaut. She was the first Japanese woman to travel to space and the first Japanese citizen to have two spaceflights.",
+      "notable_missions": [
+        "STS-65 (1994)",
+        "STS-95 (1998)"
+      ],
+      "achievements": [
+        "First Japanese woman in space",
+        "First Japanese citizen with two spaceflights",
+        "Doctor and medical researcher"
+      ]
+    },
+    {
+      "id": "akihiko_hoshide",
+      "name": "Akihiko Hoshide",
+      "agency": "Japan Aerospace Exploration Agency",
+      "type": "Government",
+      "country": "Japan",
+      "birth_year": 1968,
+      "birth_place": "Tokyo, Japan",
+      "missions_count": 3,
+      "total_space_time": "340 days",
+      "spacewalks": 4,
+      "photo_url": "https://stories.uh.edu/2023-Aki-astronaut/assets/GLR1FMwtC3/7409350022_5a598d2ddb_k-1365x2047.jpg",
+      "description": "Akihiko Hoshide is a Japanese engineer and former JAXA astronaut. He has served as Flight Engineer and Commander on multiple ISS expeditions.",
+      "notable_missions": [
+        "STS-124 (2008)",
+        "ISS Expedition 32/33 (2012)",
+        "ISS Expedition 64/65 (2021)"
+      ],
+      "achievements": [
+        "Japanese ISS commander",
+        "Multiple spacewalks",
+        "Engineer and space station operations specialist"
+      ]
+    },
+    {
+      "id": "rakesh_sharma",
+      "name": "Rakesh Sharma",
+      "agency": "Soviet Space Program / ISRO",
+      "type": "Government",
+      "country": "India",
+      "birth_year": 1949,
+      "birth_place": "Patiala, India",
+      "missions_count": 1,
+      "total_space_time": "8 days",
+      "spacewalks": 0,
+      "photo_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg3MmQ3NWIwLWQxMzUtMTFlZi1hZjY1LTgxNTQ1YzNlMTFiMS5qcGc=",
+      "description": "Rakesh Sharma is a former Indian Air Force pilot who flew aboard Soyuz T-11 in 1984, becoming the first Indian citizen to travel to space.",
+      "notable_missions": [
+        "Soyuz T-11 (1984)"
+      ],
+      "achievements": [
+        "First Indian citizen in space",
+        "Indian Air Force test pilot",
+        "Ashoka Chakra recipient"
+      ]
+    },
+    {
+      "id": "svetlana_savitskaya",
+      "name": "Svetlana Savitskaya",
+      "agency": "Soviet Space Program",
+      "type": "Government",
+      "country": "Russia",
+      "birth_year": 1948,
+      "birth_place": "Moscow, Russia",
+      "missions_count": 2,
+      "total_space_time": "19 days",
+      "spacewalks": 1,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyHRlxnduiD4xMLkIIxrZcJyAkwMqDARrEQ&s",
+      "description": "Svetlana Yevgenyevna Savitskaya is a former Soviet aviator and cosmonaut who flew to space twice and became the first woman to perform a spacewalk.",
+      "notable_missions": [
+        "Soyuz T-7 (1982)",
+        "Soyuz T-12 (1984)"
+      ],
+      "achievements": [
+        "First woman to perform spacewalk",
+        "Second woman in space",
+        "Test pilot and aviation record holder"
+      ]
+    }
+  ]
+}

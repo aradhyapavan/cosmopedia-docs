@@ -1,0 +1,787 @@
+{
+  "space_museums": [
+    {
+      "name": "Smithsonian National Air and Space Museum",
+      "country": "United States",
+      "city_or_region": "Washington, D.C.",
+      "famous_for": "World’s largest collection of aviation and space artifacts, including Apollo 11 Command Module and Wright Flyer",
+      "established_year": 1976,
+      "annual_visitors": 7500000,
+      "additional_info": "Flagship building on the National Mall; free admission; major renovation 2018-2026"
+    },
+    {
+      "name": "Steven F. Udvar-Hazy Center (NASM Annex)",
+      "country": "United States",
+      "city_or_region": "Chantilly, Virginia",
+      "famous_for": "Space Shuttle Discovery, SR-71 Blackbird, vertical viewing hangars",
+      "established_year": 2003,
+      "annual_visitors": 1200000,
+      "additional_info": "Part of Smithsonian; 760,000-ft² facility at Dulles airport"
+    },
+    {
+      "name": "Kennedy Space Center Visitor Complex",
+      "country": "United States",
+      "city_or_region": "Merritt Island, Florida",
+      "famous_for": "Historic launch pads, Space Shuttle Atlantis, Saturn V Center",
+      "established_year": 1967,
+      "annual_visitors": 1700000,
+      "additional_info": "Official NASA visitor center; bus tours of active facilities"
+    },
+    {
+      "name": "Space Center Houston (NASA Johnson Visitor Center)",
+      "country": "United States",
+      "city_or_region": "Houston, Texas",
+      "famous_for": "Apollo Mission Control, Space Shuttle Independence-747 stack",
+      "established_year": 1992,
+      "annual_visitors": 1000000,
+      "additional_info": "400+ space artifacts; STEM camps and tram tours"
+    },
+    {
+      "name": "U.S. Space & Rocket Center",
+      "country": "United States",
+      "city_or_region": "Huntsville, Alabama",
+      "famous_for": "Saturn V, Space Camp programs, world’s largest space museum by floor area",
+      "established_year": 1970,
+      "annual_visitors": 800000,
+      "additional_info": "Official NASA Marshall Visitor Center"
+    },
+    {
+      "name": "National Museum of the U.S. Air Force (Space Gallery)",
+      "country": "United States",
+      "city_or_region": "Dayton, Ohio",
+      "famous_for": "X-planes, Apollo 15 Command Module, extensive missile & space gallery",
+      "established_year": 1923,
+      "annual_visitors": 1000000,
+      "additional_info": "Oldest military aviation museum; free admission"
+    },
+    {
+      "name": "Cosmosphere",
+      "country": "United States",
+      "city_or_region": "Hutchinson, Kansas",
+      "famous_for": "Apollo 13 Command Module, Soviet Vostok and V-2 hardware",
+      "established_year": 1962,
+      "annual_visitors": 150000,
+      "additional_info": "Second-largest U.S.–Soviet artifact collection after Smithsonian"
+    },
+    {
+      "name": "Intrepid Sea, Air & Space Museum",
+      "country": "United States",
+      "city_or_region": "New York City, New York",
+      "famous_for": "Space Shuttle Enterprise displayed on WWII aircraft carrier",
+      "established_year": 1982,
+      "annual_visitors": 1000000,
+      "additional_info": "Hudson River pier location; also houses Concorde"
+    },
+    {
+      "name": "San Diego Air & Space Museum",
+      "country": "United States",
+      "city_or_region": "San Diego, California",
+      "famous_for": "Apollo 9 Command Module, Montgolfier balloon replica",
+      "established_year": 1961,
+      "annual_visitors": 350000,
+      "additional_info": "Located in Balboa Park; aviation & space emphasis"
+    },
+    {
+      "name": "Pima Air & Space Museum",
+      "country": "United States",
+      "city_or_region": "Tucson, Arizona",
+      "famous_for": "425+ aircraft over 80 acres, Titan II missile gallery",
+      "established_year": 1976,
+      "annual_visitors": 300000,
+      "additional_info": "Adjacent “Boneyard” bus tours of AMARG storage site"
+    },
+    {
+      "name": "Evergreen Aviation & Space Museum",
+      "country": "United States",
+      "city_or_region": "McMinnville, Oregon",
+      "famous_for": "Hughes H-4 Spruce Goose, SR-71 Blackbird",
+      "established_year": 1991,
+      "annual_visitors": 150000,
+      "additional_info": "Includes Titan II SLV and water-park built around 747-100"
+    },
+    {
+      "name": "The Museum of Flight",
+      "country": "United States",
+      "city_or_region": "Seattle, Washington",
+      "famous_for": "Space Shuttle Trainer, Apollo F-1 engine segments",
+      "established_year": 1965,
+      "annual_visitors": 800000,
+      "additional_info": "130+ aircraft plus space exhibits in Charles Simonyi Space Gallery"
+    },
+    {
+      "name": "California Science Center (Samuel Oschin Air & Space Center)",
+      "country": "United States",
+      "city_or_region": "Los Angeles, California",
+      "famous_for": "Space Shuttle Endeavour (vertical stack under construction)",
+      "established_year": 1998,
+      "annual_visitors": 1400000,
+      "additional_info": "Free general admission; hands-on STEM exhibits"
+    },
+    {
+      "name": "NASA Ames Exploration Center",
+      "country": "United States",
+      "city_or_region": "Mountain View, California",
+      "famous_for": "SOFIA telescope nose-section, Moon rock touch piece",
+      "established_year": 2002,
+      "annual_visitors": 150000,
+      "additional_info": "Focuses on current NASA research; free admission"
+    },
+    {
+      "name": "Virginia Air & Space Science Center (NASA Langley Visitor Center)",
+      "country": "United States",
+      "city_or_region": "Hampton, Virginia",
+      "famous_for": "Apollo 12 Command Module, Mercury test capsule",
+      "established_year": 1992,
+      "annual_visitors": 200000,
+      "additional_info": "IMAX theater and STEM programs"
+    },
+    {
+      "name": "Goddard Space Flight Center Visitor Center",
+      "country": "United States",
+      "city_or_region": "Greenbelt, Maryland",
+      "famous_for": "Hubble and James Webb mission exhibits, outdoor rocket garden",
+      "established_year": 1992,
+      "annual_visitors": 200000,
+      "additional_info": "Free admission; monthly model-rocket launches"
+    },
+    {
+      "name": "Adler Planetarium & Astronomy Museum",
+      "country": "United States",
+      "city_or_region": "Chicago, Illinois",
+      "famous_for": "First planetarium in the Western Hemisphere, Gemini 12 capsule",
+      "established_year": 1930,
+      "annual_visitors": 575000,
+      "additional_info": "Lake Michigan campus; sky shows in multiple domes"
+    },
+    {
+      "name": "New Mexico Museum of Space History",
+      "country": "United States",
+      "city_or_region": "Alamogordo, New Mexico",
+      "famous_for": "International Space Hall of Fame, rocket park overlooking desert",
+      "established_year": 1976,
+      "annual_visitors": 100000,
+      "additional_info": "Hosts annual high-altitude balloon and sounding-rocket launches"
+    },
+    {
+      "name": "Great Lakes Science Center (NASA Glenn Visitor Center)",
+      "country": "United States",
+      "city_or_region": "Cleveland, Ohio",
+      "famous_for": "Apollo Command Module, Skylab Orbital Workshop trainer",
+      "established_year": 1996,
+      "annual_visitors": 300000,
+      "additional_info": "STEM labs and lakefront wind turbine exhibit"
+    },
+    {
+      "name": "Stafford Air & Space Museum",
+      "country": "United States",
+      "city_or_region": "Weatherford, Oklahoma",
+      "famous_for": "Gemini 6A and Apollo–Soyuz hardware honoring astronaut Tom Stafford",
+      "established_year": 1993,
+      "annual_visitors": 50000,
+      "additional_info": "121,800-ft² facility on Historic Route 66"
+    },
+    {
+      "name": "Armstrong Air & Space Museum",
+      "country": "United States",
+      "city_or_region": "Wapakoneta, Ohio",
+      "famous_for": "Neil Armstrong memorabilia, Gemini 8 capsule",
+      "established_year": 1972,
+      "annual_visitors": 100000,
+      "additional_info": "Moon-shaped concrete structure near Armstrong’s birthplace"
+    },
+    {
+      "name": "Cradle of Aviation Museum",
+      "country": "United States",
+      "city_or_region": "Garden City, New York",
+      "famous_for": "LM-13 Lunar Module, Grumman space hardware displays",
+      "established_year": 2002,
+      "annual_visitors": 300000,
+      "additional_info": "Long Island’s aerospace legacy museum at former Mitchel Field"
+    },
+    {
+      "name": "Wings Over the Rockies Air & Space Museum",
+      "country": "United States",
+      "city_or_region": "Denver, Colorado",
+      "famous_for": "Full-scale X-Wing starfighter, space-themed flight sims",
+      "established_year": 1975,
+      "annual_visitors": 160000,
+      "additional_info": "Housed in former Air Force Base hangar"
+    },
+    {
+      "name": "Canada Aviation and Space Museum",
+      "country": "Canada",
+      "city_or_region": "Ottawa, Ontario",
+      "famous_for": "Canadarm prototype, International Space Station exhibits",
+      "established_year": 1964,
+      "annual_visitors": 500000,
+      "additional_info": "135 aircraft; part of Ingenium national museums"
+    },
+    {
+      "name": "Cosmodome",
+      "country": "Canada",
+      "city_or_region": "Laval, Québec",
+      "famous_for": "Space camp simulations, Apollo and Mars VR missions",
+      "established_year": 1994,
+      "annual_visitors": 150000,
+      "additional_info": "Only major space-focused museum in Canada"
+    },
+    {
+      "name": "H.R. MacMillan Space Centre",
+      "country": "Canada",
+      "city_or_region": "Vancouver, British Columbia",
+      "famous_for": "Planetarium Star Theatre, live rocket launches for students",
+      "established_year": 1968,
+      "annual_visitors": 122000,
+      "additional_info": "Located in Vanier Park near Maritime Museum"
+    },
+    {
+      "name": "Musée de l’Air et de l’Espace (Paris Air & Space Museum)",
+      "country": "France",
+      "city_or_region": "Le Bourget, Île-de-France",
+      "famous_for": "Concorde prototypes, Ariane 1, historic rockets",
+      "established_year": 1919,
+      "annual_visitors": 300000,
+      "additional_info": "Oldest aviation museum; built on Paris-Le Bourget Airport"
+    },
+    {
+      "name": "Cité de l’espace",
+      "country": "France",
+      "city_or_region": "Toulouse, Occitanie",
+      "famous_for": "Full-scale Ariane 5, Mir station replica, Mars rover yard",
+      "established_year": 1997,
+      "annual_visitors": 400000,
+      "additional_info": "20-acre space park in Europe’s aerospace capital"
+    },
+    {
+      "name": "Euro Space Center",
+      "country": "Belgium",
+      "city_or_region": "Transinne, Wallonia",
+      "famous_for": "Space shuttle mock-up, astronaut training simulators",
+      "established_year": 1991,
+      "annual_visitors": 100000,
+      "additional_info": "Hosts residential space camps and ESA outreach"
+    },
+    {
+      "name": "Technik Museum Speyer (Space Flight Exhibition)",
+      "country": "Germany",
+      "city_or_region": "Speyer, Rhineland-Palatinate",
+      "famous_for": "Buran orbiter OK-GLI, Soyuz TM-19 capsule",
+      "established_year": 1991,
+      "annual_visitors": 500000,
+      "additional_info": "Europe’s largest manned-spaceflight exhibit"
+    },
+    {
+      "name": "Deutsches Museum (Transport-Aerospace Galleries)",
+      "country": "Germany",
+      "city_or_region": "Munich, Bavaria",
+      "famous_for": "V-2 rocket, space instrumentation, interactive ISS modules",
+      "established_year": 1925,
+      "annual_visitors": 1500000,
+      "additional_info": "World’s largest science museum complex"
+    },
+    {
+      "name": "National Space Centre",
+      "country": "United Kingdom",
+      "city_or_region": "Leicester, England",
+      "famous_for": "42-meter Rocket Tower housing Blue Streak and Thor Able",
+      "established_year": 2001,
+      "annual_visitors": 300000,
+      "additional_info": "Sir Patrick Moore Planetarium and Challenger Learning Centre"
+    },
+    {
+      "name": "Science Museum (Exploring Space Gallery)",
+      "country": "United Kingdom",
+      "city_or_region": "London, England",
+      "famous_for": "Apollo 10 Command Module, full-scale Eagle LM replica",
+      "established_year": 1857,
+      "annual_visitors": 2900000,
+      "additional_info": "Free museum in South Kensington; new space gallery opening 2025"
+    },
+    {
+      "name": "Royal Observatory Greenwich (Astronomy Centre & Peter Harrison Planetarium)",
+      "country": "United Kingdom",
+      "city_or_region": "London, England",
+      "famous_for": "Prime Meridian, early Astronomer Royal instruments, space science exhibits",
+      "established_year": 1675,
+      "annual_visitors": 2300000,
+      "additional_info": "Part of Royal Museums Greenwich complex"
+    },
+    {
+      "name": "CosmoCaixa Barcelona",
+      "country": "Spain",
+      "city_or_region": "Barcelona, Catalonia",
+      "famous_for": "Planetarium and ‘Touch the Moon’ meteorite displays",
+      "established_year": 2004,
+      "annual_visitors": 1000000,
+      "additional_info": "Operated by La Caixa Foundation; hands-on science halls"
+    },
+    {
+      "name": "Copernicus Science Centre",
+      "country": "Poland",
+      "city_or_region": "Warsaw, Masovian",
+      "famous_for": "Heaven of Copernicus planetarium, Mars yard rover demos",
+      "established_year": 2010,
+      "annual_visitors": 1200000,
+      "additional_info": "Over 450 interactive exhibits on Vistula riverfront"
+    },
+    {
+      "name": "Memorial Museum of Cosmonautics",
+      "country": "Russia",
+      "city_or_region": "Moscow",
+      "famous_for": "Vostok and Soyuz capsules, Lunokhod rover, massive Conquerors of Space monument",
+      "established_year": 1981,
+      "annual_visitors": 300000,
+      "additional_info": "Renovated 2009 with international ISS gallery"
+    },
+    {
+      "name": "RKK Energia Museum",
+      "country": "Russia",
+      "city_or_region": "Korolyov, Moscow Oblast",
+      "famous_for": "Sputnik prototypes, Sergei Korolev artifacts, Mir core module mock-up",
+      "established_year": 1967,
+      "annual_visitors": null,
+      "additional_info": "Located inside rocket-design bureau; limited public access"
+    },
+    {
+      "name": "Museum of Space Exploration (Pereiaslav)",
+      "country": "Ukraine",
+      "city_or_region": "Pereiaslav, Kyiv Oblast",
+      "famous_for": "RD-219 engine, SK-II spacesuit, Korolev memorial room",
+      "established_year": 1979,
+      "annual_visitors": null,
+      "additional_info": "Housed in relocated 1891 wooden church"
+    },
+    {
+      "name": "Space Expo (ESA-ESTEC Visitor Centre)",
+      "country": "Netherlands",
+      "city_or_region": "Noordwijk, South Holland",
+      "famous_for": "ISS Columbus mock-up, real Soyuz capsule, Ariane rocket models",
+      "established_year": 1990,
+      "annual_visitors": 100000,
+      "additional_info": "Gateway to ESA’s main technology centre ESTEC"
+    },
+    {
+      "name": "Hong Kong Space Museum",
+      "country": "China (Hong Kong SAR)",
+      "city_or_region": "Tsim Sha Tsui, Kowloon",
+      "famous_for": "Iconic egg-shaped dome planetarium, OMNIMAX Space Theatre",
+      "established_year": 1980,
+      "annual_visitors": 1000000,
+      "additional_info": "Two interactive halls: Hall of the Cosmos & Hall of Space Exploration"
+    },
+    {
+      "name": "Shanghai Astronomy Museum (Shanghai Planetarium)",
+      "country": "China",
+      "city_or_region": "Shanghai, Pudong",
+      "famous_for": "World’s largest planetarium by building area, immersive digital sky dome",
+      "established_year": 2021,
+      "annual_visitors": 2000000,
+      "additional_info": "Architecturally spiral design embodying orbits"
+    },
+    {
+      "name": "China Science and Technology Museum (Space Science Hall)",
+      "country": "China",
+      "city_or_region": "Beijing",
+      "famous_for": "Long March rockets, Shenzhou spacecraft models",
+      "established_year": 1988,
+      "annual_visitors": 1600000,
+      "additional_info": "Largest comprehensive science museum in China; rebuilt 2009"
+    },
+    {
+      "name": "JAXA Tsukuba Space Center ‘Space Dome’",
+      "country": "Japan",
+      "city_or_region": "Tsukuba, Ibaraki",
+      "famous_for": "ISS Kibo module mock-up, H-II launch vehicle engines",
+      "established_year": 1972,
+      "annual_visitors": 200000,
+      "additional_info": "Guided tours of assembly & control facilities"
+    },
+    {
+      "name": "Miraikan – National Museum of Emerging Science and Innovation",
+      "country": "Japan",
+      "city_or_region": "Tokyo, Odaiba",
+      "famous_for": "Geo-Cosmos LED globe, space-elevator concept exhibits",
+      "established_year": 2001,
+      "annual_visitors": 900000,
+      "additional_info": "Operated by Japan’s Science and Technology Agency"
+    },
+    {
+      "name": "Indian Space Science Museum (VSSC Space Museum)",
+      "country": "India",
+      "city_or_region": "Thiruvananthapuram, Kerala",
+      "famous_for": "Scale models of SLV-III & PSLV, history of ISRO missions",
+      "established_year": 1992,
+      "annual_visitors": null,
+      "additional_info": "Situated inside Vikram Sarabhai Space Centre campus"
+    },
+    {
+      "name": "B.M. Birla Space Museum",
+      "country": "India",
+      "city_or_region": "Hyderabad, Telangana",
+      "famous_for": "Planetarium and reproductions of space probes",
+      "established_year": 1985,
+      "annual_visitors": 400000,
+      "additional_info": "Part of Birla Science Centre complex"
+    },
+    {
+      "name": "Sharjah Centre for Astronomy and Space Sciences",
+      "country": "United Arab Emirates",
+      "city_or_region": "Sharjah",
+      "famous_for": "UAE’s first deep-space planetarium, Mars Hope Probe gallery",
+      "established_year": 2015,
+      "annual_visitors": null,
+      "additional_info": "Operated by University of Sharjah"
+    },
+    {
+      "name": "Iziko Planetarium & Digital Dome",
+      "country": "South Africa",
+      "city_or_region": "Cape Town, Western Cape",
+      "famous_for": "Cutting-edge 8K digital sky shows, African sky myths",
+      "established_year": 2017,
+      "annual_visitors": 250000,
+      "additional_info": "Part of Iziko Museums network"
+    },
+    {
+      "name": "Planetarium Science Center (Bibliotheca Alexandrina)",
+      "country": "Egypt",
+      "city_or_region": "Alexandria",
+      "famous_for": "48-ft tilted dome, ‘History of Astronomy’ hall",
+      "established_year": 2002,
+      "annual_visitors": null,
+      "additional_info": "Located within modern Library of Alexandria complex"
+    },
+    {
+      "name": "Planetario Galileo Galilei",
+      "country": "Argentina",
+      "city_or_region": "Buenos Aires",
+      "famous_for": "Iconic UFO-shaped dome, meteorite samples",
+      "established_year": 1967,
+      "annual_visitors": 400000,
+      "additional_info": "Recently upgraded 8K projection system"
+    },
+    {
+      "name": "Planetario Alfa",
+      "country": "Mexico",
+      "city_or_region": "Monterrey, Nuevo León",
+      "famous_for": "IMAX-DOME theatre, space exploration exhibitions",
+      "established_year": 1978,
+      "annual_visitors": 300000,
+      "additional_info": "Part of Parque Planetario fund; extensive STEM outreach"
+    },
+    {
+      "name": "Museum of Astronomy and Related Sciences (MAST)",
+      "country": "Brazil",
+      "city_or_region": "Rio de Janeiro",
+      "famous_for": "Historic 19th-century observatory, space geodesy exhibits",
+      "established_year": 1985,
+      "annual_visitors": 150000,
+      "additional_info": "Operated by Brazil’s Ministry of Science"
+    },
+    {
+      "name": "Planetário Professor Aristóteles Orsini (Ibirapuera Planetarium)",
+      "country": "Brazil",
+      "city_or_region": "São Paulo",
+      "famous_for": "First planetarium in South America, Zeiss projector",
+      "established_year": 1957,
+      "annual_visitors": 120000,
+      "additional_info": "Located in Ibirapuera Park; reopened after 2016 refurbishment"
+    },
+    {
+      "name": "Powerhouse Museum",
+      "country": "Australia",
+      "city_or_region": "Sydney, New South Wales",
+      "famous_for": "Apollo 11 telemetry dish, Zero-G space-lab mock-up",
+      "established_year": 1988,
+      "annual_visitors": 750000,
+      "additional_info": "Part of Museum of Applied Arts & Sciences (MAAS)"
+    },
+    {
+      "name": "Questacon – National Science and Technology Centre",
+      "country": "Australia",
+      "city_or_region": "Canberra, ACT",
+      "famous_for": "NASA Deep Space Network exhibits, rotating gravity well",
+      "established_year": 1988,
+      "annual_visitors": 500000,
+      "additional_info": "350+ interactive galleries; joint Australia-Japan project"
+    },
+    {
+      "name": "Stardome Observatory & Planetarium",
+      "country": "New Zealand",
+      "city_or_region": "Auckland",
+      "famous_for": "Zeiss star projector, Space Gallery on Māori astronomy",
+      "established_year": 1967,
+      "annual_visitors": 145000,
+      "additional_info": "Located on volcanic One Tree Hill (Maungakiekie)"
+    },
+    {
+      "name": "National Gwacheon Science Museum (Astronomy Hall)",
+      "country": "South Korea",
+      "city_or_region": "Gwacheon, Gyeonggi",
+      "famous_for": "360-degree dome cinema, Korean satellite history",
+      "established_year": 2008,
+      "annual_visitors": 1000000,
+      "additional_info": "Operated by Ministry of Science and ICT"
+    },
+    {
+      "name": "Planetarium Negara (National Planetarium Malaysia)",
+      "country": "Malaysia",
+      "city_or_region": "Kuala Lumpur",
+      "famous_for": "Blue domed planetarium, Angkasawan program gallery",
+      "established_year": 1994,
+      "annual_visitors": 200000,
+      "additional_info": "Rocket replica in Lake Gardens; space-themed rides"
+    },
+    {
+      "name": "Spaceport (Wirral)",
+      "country": "United Kingdom",
+      "city_or_region": "Seacombe, Merseyside",
+      "famous_for": "Interactive Space-Age zone, Mars rover simulator",
+      "established_year": 2005,
+      "annual_visitors": 100000,
+      "additional_info": "Located in ferry terminal on River Mersey"
+    },
+    {
+      "name": "Science City Kolkata (Space Odyssey Hall)",
+      "country": "India",
+      "city_or_region": "Kolkata, West Bengal",
+      "famous_for": "Largest science centre in India, Cosmic Voyage space theatre",
+      "established_year": 1997,
+      "annual_visitors": 1000000,
+      "additional_info": "Run by National Council of Science Museums"
+    },
+    {
+      "name": "Europlanetarium Genk",
+      "country": "Belgium",
+      "city_or_region": "Genk, Limburg",
+      "famous_for": "Planetarium shows and Cosmodrome space flight simulator",
+      "established_year": 1998,
+      "annual_visitors": null,
+      "additional_info": "Green energy–powered dome in Limburg tourism park"
+    },
+    {
+      "name": "Andøya Space Exploration Centre (Spaceship Aurora)",
+      "country": "Norway",
+      "city_or_region": "Andenes, Nordland",
+      "famous_for": "Northern Lights mission simulator, sounding-rocket heritage",
+      "established_year": 2014,
+      "annual_visitors": null,
+      "additional_info": "Part of Andøya Spaceport complex above Arctic Circle"
+    },
+    {
+      "name": "Inspiration Mars Exhibition (Archenhold Observatory)",
+      "country": "Germany",
+      "city_or_region": "Berlin",
+      "famous_for": "World’s longest refracting telescope, spaceflight galleries",
+      "established_year": 1896,
+      "annual_visitors": 120000,
+      "additional_info": "Operated by Stiftung Planetarium Berlin"
+    },
+    {
+      "name": "Johannes Kepler Observatory & Museum",
+      "country": "Czech Republic",
+      "city_or_region": "Prague",
+      "famous_for": "Kepler’s last residence, early celestial mechanics exhibits",
+      "established_year": 2009,
+      "annual_visitors": null,
+      "additional_info": "Small heritage site in Old Town"
+    },
+    {
+      "name": "Sir Patrick Moore Planetarium (Thinktank Science Museum)",
+      "country": "United Kingdom",
+      "city_or_region": "Birmingham, England",
+      "famous_for": "Digistar 7 digital dome, UK’s largest planetarium seating 300",
+      "established_year": 2001,
+      "annual_visitors": 450000,
+      "additional_info": "Part of Birmingham’s Millennium Point complex"
+    },
+    {
+      "name": "Griffith Observatory (Space Exhibits)",
+      "country": "United States",
+      "city_or_region": "Los Angeles, California",
+      "famous_for": "Foucault pendulum, Tesla coil, immersive space dioramas",
+      "established_year": 1935,
+      "annual_visitors": 2000000,
+      "additional_info": "Iconic Art Deco landmark overlooking Hollywood; free admission"
+    },
+    {
+      "name": "Exploradôme Space Pavilion",
+      "country": "France",
+      "city_or_region": "Vitry-sur-Seine, Île-de-France",
+      "famous_for": "Hands-on cosmology exhibits for children",
+      "established_year": 1998,
+      "annual_visitors": null,
+      "additional_info": "Partner of Exploratorium (San Francisco) model"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Museum (BOAO)",
+      "country": "South Korea",
+      "city_or_region": "Boeun, Chungbuk",
+      "famous_for": "62-inch reflector, public star parties, space-probe models",
+      "established_year": 1997,
+      "annual_visitors": null,
+      "additional_info": "Operated by Korea Astronomy and Space Science Institute"
+    },
+    {
+      "name": "State Museum of the History of Cosmonautics (Tsiolkovsky Museum)",
+      "country": "Russia",
+      "city_or_region": "Kaluga",
+      "famous_for": "Original Tsiolkovsky sketches, Vostok 1 descent module",
+      "established_year": 1967,
+      "annual_visitors": 250000,
+      "additional_info": "Expanded “Vostok” building opened 2021"
+    },
+    {
+      "name": "Air Force Space and Missile Museum",
+      "country": "United States",
+      "city_or_region": "Cape Canaveral Space Force Station, Florida",
+      "famous_for": "Launch Complex 26 blockhouse, Jupiter-C and Redstone rockets",
+      "established_year": 1966,
+      "annual_visitors": null,
+      "additional_info": "Tours via Cape Canaveral Space Force Museum Foundation"
+    },
+    {
+      "name": "American Space Museum & U.S. Space Walk of Fame",
+      "country": "United States",
+      "city_or_region": "Titusville, Florida",
+      "famous_for": "Astronaut-signed Firing Room consoles, Space Shuttle memorabilia",
+      "established_year": 1994,
+      "annual_visitors": null,
+      "additional_info": "Honors launch teams on outdoor Riverfront monuments"
+    },
+    {
+      "name": "Astro-Tec Space Exploration Center",
+      "country": "Philippines",
+      "city_or_region": "Taguig, Metro Manila",
+      "famous_for": "Replica of Diwata-1 microsatellite, Filipino space technology",
+      "established_year": 2023,
+      "annual_visitors": null,
+      "additional_info": "Operated by Philippine Space Agency; first of its kind in country"
+    },
+    {
+      "name": "Huntsville Planetarium and Space Academy (South Africa)",
+      "country": "South Africa",
+      "city_or_region": "Johannesburg",
+      "famous_for": "Modular Mars habitat mock-ups, African space science outreach",
+      "established_year": 2018,
+      "annual_visitors": null,
+      "additional_info": "Part of Sci-Bono Discovery Centre partnership"
+    },
+    {
+      "name": "Space Place at Carter Observatory",
+      "country": "New Zealand",
+      "city_or_region": "Wellington",
+      "famous_for": "Historic Thomas Cooke 9-inch refractor, Māori star lore exhibitions",
+      "established_year": 1941,
+      "annual_visitors": 110000,
+      "additional_info": "Planetarium show-case in Botanic Garden"
+    },
+    {
+      "name": "Yuri Gagarin Cosmonaut Training Center Museum",
+      "country": "Russia",
+      "city_or_region": "Star City, Moscow Oblast",
+      "famous_for": "Full-scale Mir mock-up, Soyuz centrifuge trainer",
+      "established_year": 1960,
+      "annual_visitors": null,
+      "additional_info": "Access typically via pre-arranged group tours"
+    },
+    {
+      "name": "Hayden Planetarium (Rose Center for Earth and Space)",
+      "country": "United States",
+      "city_or_region": "New York City, New York",
+      "famous_for": "Digital Universe Atlas, iconic glass cube housing spherical theater",
+      "established_year": 2000,
+      "annual_visitors": 500000,
+      "additional_info": "Part of American Museum of Natural History"
+    },
+    {
+      "name": "Virginia Aviation Museum (Space Gallery)",
+      "country": "United States",
+      "city_or_region": "Richmond, Virginia",
+      "famous_for": "Meteorite and Moon rock displays, atmospheric balloons",
+      "established_year": 1986,
+      "annual_visitors": null,
+      "additional_info": "Currently closed; artifacts transferred to Science Museum of Virginia"
+    },
+    {
+      "name": "Bursa Gökmen Space and Aviation Training Center (GUHEM)",
+      "country": "Turkey",
+      "city_or_region": "Bursa",
+      "famous_for": "13,500-m² interactive space galleries, ESA-accredited training modules",
+      "established_year": 2020,
+      "annual_visitors": 150000,
+      "additional_info": "Funded by Bursa Aerospace Cluster and TÜBİTAK"
+    },
+    {
+      "name": "S.P. Korolev Museum of Cosmonautics and Rocket Technology (Peter and Paul Fortress)",
+      "country": "Russia",
+      "city_or_region": "Saint Petersburg",
+      "famous_for": "First Russian space museum (1932), rocket engines designed by Glushko",
+      "established_year": 1973,
+      "annual_visitors": null,
+      "additional_info": "Part of Museum of Artillery, Engineers and Signal Corps"
+    },
+    {
+      "name": "Flandrau Science Center & Planetarium",
+      "country": "United States",
+      "city_or_region": "Tucson, Arizona",
+      "famous_for": "University-run planetarium with OSIRIS-REx mission exhibits",
+      "established_year": 1975,
+      "annual_visitors": 70000,
+      "additional_info": "Associated with University of Arizona Lunar & Planetary Lab"
+    },
+    {
+      "name": "Space Discovery Centre, Spaceport Cornwall",
+      "country": "United Kingdom",
+      "city_or_region": "Newquay, Cornwall",
+      "famous_for": "Virgin Orbit launch operations gallery, UK space-flight future showcase",
+      "established_year": 2022,
+      "annual_visitors": null,
+      "additional_info": "Located at Cornwall Airport Newquay horizontal-launch site"
+    },
+    {
+      "name": "US Astronaut Hall of Fame (Planet Play) at KSC",
+      "country": "United States",
+      "city_or_region": "Titusville, Florida",
+      "famous_for": "Interactive astronaut history exhibits, Mercury-to-Shuttle memorabilia",
+      "established_year": 1990,
+      "annual_visitors": 600000,
+      "additional_info": "Now integrated into Kennedy Space Center Visitor Complex"
+    },
+    {
+      "name": "Museo Nacional de Aeronáutica y del Espacio de Chile (MNAE)",
+      "country": "Chile",
+      "city_or_region": "Santiago",
+      "famous_for": "Chilean satellite program models, meteorite collection",
+      "established_year": 1944,
+      "annual_visitors": 200000,
+      "additional_info": "Operated by Chilean Air Force"
+    },
+    {
+      "name": "Aviation & Space Gallery, Pima County Youth Museum (Children’s Museum)",
+      "country": "United States",
+      "city_or_region": "Tucson, Arizona",
+      "famous_for": "Hands-on space science for children under 10",
+      "established_year": 1986,
+      "annual_visitors": 180000,
+      "additional_info": "STEM outreach partner with Pima Air & Space Museum"
+    },
+    {
+      "name": "Observatoire de Paris ‘Universe and Galaxies’ Gallery",
+      "country": "France",
+      "city_or_region": "Paris",
+      "famous_for": "Historic 17th-century observatory, modern cosmology exhibits",
+      "established_year": 1667,
+      "annual_visitors": null,
+      "additional_info": "Rare public open-days for science festival events"
+    },
+    {
+      "name": "National Planetarium Abuja",
+      "country": "Nigeria",
+      "city_or_region": "Abuja",
+      "famous_for": "NigeriaSat-1 and NigComSat mission displays, 25-m dome theater",
+      "established_year": 2021,
+      "annual_visitors": null,
+      "additional_info": "Operated by National Space Research and Development Agency"
+    }
+  ]
+}

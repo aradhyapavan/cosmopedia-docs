@@ -1,0 +1,1479 @@
+{
+  "notable_space_contributors": [
+    {
+      "name": "Carl Edward Sagan",
+      "country": "United States",
+      "birth_date": "November 9, 1934",
+      "death_date": "December 20, 1996",
+      "contribution": "Popularized science through television and books, contributed to NASA missions including Mariner, Viking, Voyager, and Galileo",
+      "known_for": "Cosmos TV series, SETI research, planetary science",
+      "awards": [
+        "Pulitzer Prize (1978)",
+        "NASA Distinguished Public Service Medal",
+        "NASA Apollo Achievement Award"
+      ],
+      "notable_works": [
+        "Cosmos book and TV series",
+        "The Dragons of Eden"
+      ],
+      "institutions": [
+        "Cornell University",
+        "NASA JPL"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJvDHmQWw2Vx9j0D5ykCoKa3j_f0Sk1BBPw&s"
+    },
+    {
+      "name": "Brian Edward Cox",
+      "country": "United Kingdom",
+      "birth_date": "March 3, 1968",
+      "contribution": "Particle physics research at CERN, science communication through BBC programs",
+      "known_for": "Wonders of the Universe series, particle physics, science popularization",
+      "awards": [
+        "OBE (2010)",
+        "Royal Society Michael Faraday Prize (2012)",
+        "Lord Kelvin Award (2006)"
+      ],
+      "notable_works": [
+        "Wonders of the Universe",
+        "Why Does E=mcÂ²?"
+      ],
+      "institutions": [
+        "University of Manchester",
+        "CERN"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqG4aGErUmX-I95Y1ESsKW1gWlb06tiTgIzQ&s"
+    },
+    {
+      "name": "Dr. A.P.J. Abdul Kalam",
+      "country": "India",
+      "birth_date": "October 15, 1931",
+      "death_date": "July 27, 2015",
+      "contribution": "Developed India's first satellite launch vehicle SLV-III and missile technology",
+      "known_for": "Missile Man of India, People's President",
+      "awards": [
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan"
+      ],
+      "notable_works": [
+        "Wings of Fire",
+        "India 2020"
+      ],
+      "institutions": [
+        "ISRO",
+        "DRDO",
+        "President of India (2002-2007)"
+      ],
+      "public_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/800px-A._P._J._Abdul_Kalam.jpg"
+    },
+    {
+      "name": "Neil deGrasse Tyson",
+      "country": "United States",
+      "birth_date": "October 5, 1958",
+      "contribution": "Astrophysics research, science communication, Pluto reclassification",
+      "known_for": "Hayden Planetarium director, Cosmos: A SpaceTime Odyssey host",
+      "awards": [
+        "NASA Distinguished Public Service Medal (2004)"
+      ],
+      "notable_works": [
+        "Astrophysics for People in a Hurry",
+        "Cosmos: A SpaceTime Odyssey"
+      ],
+      "institutions": [
+        "Hayden Planetarium",
+        "American Museum of Natural History"
+      ],
+      "public_image": "https://cdn.britannica.com/32/157032-050-48E6F3C6/Neil-deGrasse-Tyson-2010.jpg"
+    },
+    {
+      "name": "Yuri Alekseyevich Gagarin",
+      "country": "Soviet Union (Russia)",
+      "birth_date": "March 9, 1934",
+      "death_date": "March 27, 1968",
+      "contribution": "First human to journey into outer space",
+      "known_for": "Vostok 1 mission (April 12, 1961), opening space age",
+      "awards": [
+        "Hero of the Soviet Union",
+        "Order of Lenin"
+      ],
+      "mission_duration": "108 minutes",
+      "famous_quote": "I see the Earth. It is so beautiful!",
+      "public_image": "https://cdn.britannica.com/74/156974-050-F2EF5B25/Yury-Gagarin.jpg"
+    },
+    {
+      "name": "Neil Alden Armstrong",
+      "country": "United States",
+      "birth_date": "August 5, 1930",
+      "death_date": "August 25, 2012",
+      "contribution": "First human to walk on the Moon",
+      "known_for": "Apollo 11 mission commander, Moon landing",
+      "awards": [
+        "Congressional Space Medal of Honor",
+        "Presidential Medal of Freedom"
+      ],
+      "famous_quote": "That's one small step for man, one giant leap for mankind",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://cdn.britannica.com/35/7235-050-BF074A94/Neil-Armstrong-Eagle-module-surface-Moon-Apollo-July-20-1969.jpg"
+    },
+    {
+      "name": "Alan Bartlett Shepard Jr.",
+      "country": "United States",
+      "birth_date": "November 18, 1923",
+      "death_date": "July 21, 1998",
+      "contribution": "First American in space",
+      "known_for": "Mercury-Redstone 3 (Freedom 7) mission",
+      "mission_date": "May 5, 1961",
+      "awards": [
+        "Congressional Space Medal of Honor"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://m.media-amazon.com/images/M/MV5BY2M1NGIyNzEtY2M2ZC00MjZjLWI3N2UtMWYxYjVjYzY3YzFiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "John Herschel Glenn Jr.",
+      "country": "United States",
+      "birth_date": "July 18, 1921",
+      "death_date": "December 8, 2016",
+      "contribution": "First American to orbit Earth, oldest person in space at age 77",
+      "known_for": "Mercury-Atlas 6 (Friendship 7), STS-95 missions",
+      "awards": [
+        "Congressional Space Medal of Honor"
+      ],
+      "special_achievement": "Oldest astronaut in space",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://cdn.britannica.com/14/9614-050-D0E7C6D0/John-Glenn.jpg"
+    },
+    {
+      "name": "Valentina Vladimirovna Tereshkova",
+      "country": "Soviet Union (Russia)",
+      "birth_date": "March 6, 1937",
+      "contribution": "First woman in space",
+      "known_for": "Vostok 6 mission (June 16-19, 1963)",
+      "awards": [
+        "Hero of the Soviet Union",
+        "Order of Lenin"
+      ],
+      "mission_duration": "2 days, 22 hours, 50 minutes",
+      "institutions": [
+        "Soviet Space Program"
+      ],
+      "public_image": "https://cdn.britannica.com/87/195287-050-CA25BF46/Valentina-Tereshkova-space-woman.jpg"
+    },
+    {
+      "name": "Edwin Eugene 'Buzz' Aldrin Jr.",
+      "country": "United States",
+      "birth_date": "January 20, 1930",
+      "contribution": "Second human to walk on the Moon",
+      "known_for": "Apollo 11 lunar module pilot",
+      "awards": [
+        "Congressional Space Medal of Honor",
+        "Presidential Medal of Freedom"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://cdn.britannica.com/59/7159-050-E8BB9274/Buzz-Aldrin-Moon-Apollo-11-July-1969.jpg"
+    },
+    {
+      "name": "Sunita Lyn Williams",
+      "country": "United States (Indian origin)",
+      "birth_date": "September 19, 1965",
+      "contribution": "Long-duration spaceflight specialist, spacewalk record holder",
+      "known_for": "International Space Station expeditions, spacewalk records",
+      "spacewalk_time": "50+ hours total",
+      "space_time": "322 days cumulative",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/s134e011971.jpg"
+    },
+    {
+      "name": "Kalpana Chawla",
+      "country": "India/United States",
+      "birth_date": "March 17, 1962",
+      "death_date": "February 1, 2003",
+      "contribution": "First Indian-American woman astronaut",
+      "known_for": "STS-87 and STS-107 (Columbia) missions",
+      "awards": [
+        "Congressional Space Medal of Honor (posthumous)"
+      ],
+      "tragic_end": "Died in Columbia shuttle disaster",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/s87e5051.jpg"
+    },
+    {
+      "name": "Wing Commander Rakesh Sharma",
+      "country": "India",
+      "birth_date": "January 13, 1949",
+      "contribution": "First Indian citizen in space",
+      "known_for": "Soyuz T-11 mission (April 3, 1984)",
+      "space_time": "7 days, 21 hours, 40 minutes",
+      "institutions": [
+        "ISRO",
+        "Soviet Interkosmos Programme"
+      ],
+      "public_image": "https://images.indianexpress.com/2022/04/Rakesh-Sharma.jpg"
+    },
+    {
+      "name": "Edwin Powell Hubble",
+      "country": "United States",
+      "birth_date": "November 20, 1889",
+      "death_date": "September 28, 1953",
+      "contribution": "Discovered universe expansion, established extragalactic astronomy",
+      "known_for": "Hubble's Law, galaxy classification system",
+      "major_discovery": "Universe is expanding",
+      "legacy": "Hubble Space Telescope named after him",
+      "institutions": [
+        "Mount Wilson Observatory"
+      ],
+      "public_image": "https://cdn.britannica.com/50/9850-050-F7767E27/Edwin-Hubble-telescope-Mount-Wilson-Observatory-California.jpg"
+    },
+    {
+      "name": "Galileo Galilei",
+      "country": "Italy",
+      "birth_date": "February 15, 1564",
+      "death_date": "January 8, 1642",
+      "contribution": "First telescopic observations of celestial objects",
+      "known_for": "Moons of Jupiter, phases of Venus, lunar craters, sunspots",
+      "legacy": "Father of observational astronomy",
+      "discoveries": [
+        "Jupiter's four largest moons",
+        "Venus phases",
+        "Lunar mountains"
+      ],
+      "controversy": "Conflict with Catholic Church over heliocentrism",
+      "public_image": "https://cdn.britannica.com/74/114874-050-7FBF6F42/Galileo-oil-canvas-Justus-Sustermans-1636.jpg"
+    },
+    {
+      "name": "Johannes Kepler",
+      "country": "Germany",
+      "birth_date": "December 27, 1571",
+      "death_date": "November 15, 1630",
+      "contribution": "Laws of planetary motion",
+      "known_for": "Kepler's three laws of planetary motion",
+      "major_works": [
+        "Astronomia Nova",
+        "Harmonices Mundi"
+      ],
+      "legacy": "Mathematical foundation for orbital mechanics",
+      "public_image": "https://cdn.britannica.com/36/7736-050-8D29F9B8/Johannes-Kepler.jpg"
+    },
+    {
+      "name": "Sir Isaac Newton",
+      "country": "England",
+      "birth_date": "January 4, 1643",
+      "death_date": "March 31, 1727",
+      "contribution": "Laws of motion and universal gravitation",
+      "known_for": "Principia Mathematica, calculus, laws of motion",
+      "major_works": [
+        "Principia Mathematica"
+      ],
+      "legacy": "Foundation of classical mechanics and celestial mechanics",
+      "public_image": "https://cdn.britannica.com/47/5247-050-2262C1B1/Sir-Isaac-Newton-oil-canvas-Godfrey-Kneller-1689.jpg"
+    },
+    {
+      "name": "Stephen William Hawking",
+      "country": "United Kingdom",
+      "birth_date": "January 8, 1942",
+      "death_date": "March 14, 2018",
+      "contribution": "Black hole physics, Hawking radiation theory",
+      "known_for": "Black hole thermodynamics, cosmological singularity theorems",
+      "awards": [
+        "Fundamental Physics Prize (2013)",
+        "Copley Medal (2006)"
+      ],
+      "notable_works": [
+        "A Brief History of Time"
+      ],
+      "institutions": [
+        "University of Cambridge"
+      ],
+      "public_image": "https://cdn.britannica.com/97/188197-050-CB734B84/Stephen-Hawking-2007.jpg"
+    },
+    {
+      "name": "Cecilia Helena Payne-Gaposchkin",
+      "country": "United Kingdom/United States",
+      "birth_date": "May 10, 1900",
+      "death_date": "December 7, 1979",
+      "contribution": "Discovered stellar composition (hydrogen and helium abundance)",
+      "known_for": "Revolutionary thesis on stellar composition",
+      "legacy": "Transformed understanding of stellar physics",
+      "institutions": [
+        "Harvard College Observatory"
+      ],
+      "public_image": "https://www.harvardsquarelibrary.org/wp-content/uploads/2012/07/cpglab.jpg"
+    },
+    {
+      "name": "Harlow Shapley",
+      "country": "United States",
+      "birth_date": "November 2, 1885",
+      "death_date": "October 20, 1972",
+      "contribution": "Determined size and center of Milky Way galaxy",
+      "known_for": "Mapping galaxy structure using globular clusters",
+      "institutions": [
+        "Harvard College Observatory"
+      ],
+      "public_image": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/science/harlow-shapley/682908-1-eng-US/harlow-shapley.jpg"
+    },
+    {
+      "name": "Henrietta Swan Leavitt",
+      "country": "United States",
+      "birth_date": "July 4, 1868",
+      "death_date": "December 12, 1921",
+      "contribution": "Discovered period-luminosity relationship in Cepheid variables",
+      "known_for": "Cosmic distance scale measurement method",
+      "legacy": "Enabled measurement of universe size and expansion",
+      "institutions": [
+        "Harvard College Observatory"
+      ],
+      "public_image": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/science/henrietta-leavitt/682911-1-eng-US/henrietta-leavitt.jpg"
+    },
+    {
+      "name": "Annie Jump Cannon",
+      "country": "United States",
+      "birth_date": "December 11, 1863",
+      "death_date": "April 13, 1941",
+      "contribution": "Stellar spectral classification system",
+      "known_for": "Harvard Classification System for stars",
+      "legacy": "Classified over 350,000 stars",
+      "institutions": [
+        "Harvard College Observatory"
+      ],
+      "public_image": "https://lirp.cdn-website.com/f225c1ca/dms3rep/multi/opt/AJumpCannon-640w.jpg"
+    },
+    {
+      "name": "Fritz Zwicky",
+      "country": "Switzerland/United States",
+      "birth_date": "February 14, 1898",
+      "death_date": "February 8, 1974",
+      "contribution": "Proposed existence of dark matter",
+      "known_for": "Dark matter discovery, neutron stars, supernovae",
+      "institutions": [
+        "California Institute of Technology"
+      ],
+      "public_image": "https://calteches.library.caltech.edu/portrait/fritz-zwicky.jpg"
+    },
+    {
+      "name": "Jan Hendrik Oort",
+      "country": "Netherlands",
+      "birth_date": "April 28, 1900",
+      "death_date": "November 5, 1992",
+      "contribution": "Galaxy rotation, Oort cloud theory",
+      "known_for": "Oort cloud of comets, galactic structure",
+      "institutions": [
+        "Leiden Observatory"
+      ],
+      "public_image": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/nieuws/2020/10/jan-hendrik-oort.jpg"
+    },
+    {
+      "name": "Gerard Peter Kuiper",
+      "country": "Netherlands/United States",
+      "birth_date": "December 7, 1905",
+      "death_date": "December 23, 1973",
+      "contribution": "Planetary science, discovered moons of Uranus and Neptune",
+      "known_for": "Kuiper Belt, planetary atmospheres",
+      "discoveries": [
+        "Miranda (Uranus)",
+        "Nereid (Neptune)",
+        "Titan's atmosphere"
+      ],
+      "institutions": [
+        "University of Chicago",
+        "Lunar and Planetary Laboratory"
+      ],
+      "public_image": "https://www.lpl.arizona.edu/sites/default/files/styles/large/public/kuiper.jpg"
+    },
+    {
+      "name": "Karl Guthe Jansky",
+      "country": "United States",
+      "birth_date": "October 22, 1905",
+      "death_date": "February 14, 1950",
+      "contribution": "Founded radio astronomy",
+      "known_for": "First detection of radio waves from space",
+      "legacy": "Father of radio astronomy",
+      "institutions": [
+        "Bell Telephone Laboratories"
+      ],
+      "public_image": "https://www.nrao.edu/whatisra/karlsmall.jpg"
+    },
+    {
+      "name": "Wernher von Braun",
+      "country": "Germany/United States",
+      "birth_date": "March 23, 1912",
+      "death_date": "June 16, 1977",
+      "contribution": "Developed Saturn V rocket for Apollo program",
+      "known_for": "Rocket technology, space exploration vision",
+      "legacy": "Von Braun Paradigm for space exploration",
+      "institutions": [
+        "NASA",
+        "Army Ballistic Missile Agency"
+      ],
+      "public_image": "https://cdn.britannica.com/08/81008-050-2CF8BE6F/Wernher-von-Braun.jpg"
+    },
+    {
+      "name": "Robert Hutchings Goddard",
+      "country": "United States",
+      "birth_date": "October 5, 1882",
+      "death_date": "August 10, 1945",
+      "contribution": "Father of modern rocketry",
+      "known_for": "First liquid-fueled rocket launch",
+      "legacy": "Foundation of rocket propulsion",
+      "institutions": [
+        "Clark University",
+        "Roswell, New Mexico research"
+      ],
+      "public_image": "https://cdn.britannica.com/52/9652-050-EEF85FC9/Robert-Goddard.jpg"
+    },
+    {
+      "name": "Konstantin Eduardovich Tsiolkovsky",
+      "country": "Russia",
+      "birth_date": "September 17, 1857",
+      "death_date": "September 19, 1935",
+      "contribution": "Theoretical foundations of spaceflight",
+      "known_for": "Rocket equation, space exploration theory",
+      "legacy": "Father of theoretical astronautics",
+      "public_image": "https://cdn.britannica.com/03/15403-050-32913AF1/Konstantin-Tsiolkovsky.jpg"
+    },
+    {
+      "name": "Sally Kristen Ride",
+      "country": "United States",
+      "birth_date": "May 26, 1951",
+      "death_date": "July 23, 2012",
+      "contribution": "First American woman in space",
+      "known_for": "STS-7 Space Shuttle mission",
+      "mission_date": "June 18, 1983",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/s83e1055.jpg"
+    },
+    {
+      "name": "Mae Carol Jemison",
+      "country": "United States",
+      "birth_date": "October 17, 1956",
+      "contribution": "First African American woman astronaut",
+      "known_for": "STS-47 Space Shuttle mission",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/s47e5040.jpg"
+    },
+    {
+      "name": "Peggy Annette Whitson",
+      "country": "United States",
+      "birth_date": "February 9, 1960",
+      "contribution": "NASA record holder for cumulative time in space",
+      "known_for": "675 cumulative days in space",
+      "achievements": [
+        "First female ISS commander",
+        "Oldest female spacewalker"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/s115e07064.jpg"
+    },
+    {
+      "name": "Frank Rubio",
+      "country": "United States",
+      "birth_date": "December 11, 1975",
+      "contribution": "NASA single spaceflight duration record holder",
+      "known_for": "371 days single mission record",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/frank_rubio.jpg"
+    },
+    {
+      "name": "Chris Austin Hadfield",
+      "country": "Canada",
+      "birth_date": "August 29, 1959",
+      "contribution": "International Space Station commander, space educator",
+      "known_for": "Social media space education, ISS command",
+      "institutions": [
+        "Canadian Space Agency",
+        "NASA"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvj0ppPfTcDJM8Biyg3zyvx_ZW0_0CVYB4pQ&s"
+    },
+    {
+      "name": "Liu Yang",
+      "country": "China",
+      "birth_date": "October 6, 1978",
+      "contribution": "First Chinese woman in space",
+      "known_for": "Shenzhou 9 mission",
+      "institutions": [
+        "China National Space Administration"
+      ],
+      "public_image": "https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20120615/0013729eded8114e95dc1c.jpg"
+    },
+    {
+      "name": "Edmond Halley",
+      "country": "England",
+      "birth_date": "November 8, 1656",
+      "death_date": "January 25, 1742",
+      "contribution": "Predicted return of Halley's Comet",
+      "known_for": "Cometary orbits, Halley's Comet",
+      "legacy": "First successful comet orbit prediction",
+      "public_image": "https://www.rmg.co.uk/sites/default/files/styles/large/public/Edmond%20Halley%20by%20Sir%20Godfrey%20Kneller%20%28detail%29_0.jpg?itok=ktgyaqS8"
+    },
+    {
+      "name": "Charles Messier",
+      "country": "France",
+      "birth_date": "June 26, 1730",
+      "death_date": "April 12, 1817",
+      "contribution": "Messier catalog of deep-sky objects",
+      "known_for": "103 celestial objects catalog, comet hunting",
+      "discoveries": [
+        "13 comets"
+      ],
+      "public_image": "https://cdn.mos.cms.futurecdn.net/v2/t:166,l:0,cw:473,ch:266,q:80,w:473/vjcuTa7gj78TjiJoZ5Cx4b.jpg"
+    },
+    {
+      "name": "William Herschel",
+      "country": "Germany/United Kingdom",
+      "birth_date": "November 15, 1738",
+      "death_date": "August 25, 1822",
+      "contribution": "Discovered Uranus and its moons",
+      "known_for": "Planet Uranus discovery, stellar astronomy",
+      "discoveries": [
+        "Uranus",
+        "Titania and Oberon (Uranus moons)",
+        "2,500 deep sky objects"
+      ],
+      "public_image": "https://www.rmg.co.uk/sites/default/files/styles/lead_image/public/2022-08/william-herschel-portrait.jpg"
+    },
+    {
+      "name": "Caroline Lucretia Herschel",
+      "country": "Germany/United Kingdom",
+      "birth_date": "March 16, 1750",
+      "death_date": "January 9, 1848",
+      "contribution": "First woman to discover a comet",
+      "known_for": "Comet hunting, nebula catalog",
+      "achievements": [
+        "First woman with salary as scientist"
+      ],
+      "public_image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=facearea&w=400&h=400&facepad=2"
+    },
+    {
+      "name": "Giovanni Domenico Cassini",
+      "country": "Italy/France",
+      "birth_date": "June 8, 1625",
+      "death_date": "September 14, 1712",
+      "contribution": "Discovered Saturn's moons and ring gap",
+      "known_for": "Cassini Division in Saturn's rings, four Saturn moons",
+      "legacy": "Cassini spacecraft named after him",
+      "public_image": "https://www.rmg.co.uk/sites/default/files/styles/lead_image/public/2022-08/giovanni-cassini-portrait.jpg"
+    },
+    {
+      "name": "Christiaan Huygens",
+      "country": "Netherlands",
+      "birth_date": "April 14, 1629",
+      "death_date": "July 8, 1695",
+      "contribution": "Discovered Saturn's moon Titan and ring system",
+      "known_for": "Saturn's rings, Titan discovery, pendulum clock",
+      "legacy": "Huygens probe to Titan named after him",
+      "public_image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=facearea&w=400&h=400&facepad=2"
+    },
+    {
+      "name": "Tycho Brahe",
+      "country": "Denmark",
+      "birth_date": "December 14, 1546",
+      "death_date": "October 24, 1601",
+      "contribution": "Most accurate pre-telescope astronomical observations",
+      "known_for": "Precise planetary observations, supernova studies",
+      "legacy": "Data used by Kepler for planetary laws",
+      "public_image": "https://www.rmg.co.uk/sites/default/files/styles/lead_image/public/2022-08/tycho-brahe-portrait.jpg"
+    },
+    {
+      "name": "Nicolaus Copernicus",
+      "country": "Poland",
+      "birth_date": "February 19, 1473",
+      "death_date": "May 24, 1543",
+      "contribution": "Proposed heliocentric model of solar system",
+      "known_for": "De revolutionibus orbium coelestium",
+      "legacy": "Copernican Revolution in astronomy",
+      "public_image": "https://www.rmg.co.uk/sites/default/files/styles/lead_image/public/2022-08/nicolaus-copernicus-portrait.jpg"
+    },
+    {
+      "name": "Aleksey Arkhipovich Leonov",
+      "country": "Soviet Union (Russia)",
+      "birth_date": "May 30, 1934",
+      "death_date": "October 11, 2019",
+      "contribution": "First human spacewalk",
+      "known_for": "Voskhod 2 mission spacewalk (March 18, 1965)",
+      "spacewalk_duration": "12 minutes",
+      "institutions": [
+        "Soviet Space Program"
+      ],
+      "public_image": "https://cdn.mos.cms.futurecdn.net/ENsNr7v54E9y5j79NLYXSD.jpg"
+    },
+    {
+      "name": "Jocelyn Bell Burnell",
+      "country": "United Kingdom",
+      "birth_date": "July 15, 1943",
+      "contribution": "Discovered pulsars",
+      "known_for": "First pulsar discovery while graduate student",
+      "awards": [
+        "Breakthrough Prize (2018)",
+        "Wolf Prize (1978)"
+      ],
+      "institutions": [
+        "University of Cambridge"
+      ],
+      "public_image": "https://www.iau.org/static/images/jocelyn-bell-burnell.jpg"
+    },
+    {
+      "name": "Subrahmanyan Chandrasekhar",
+      "country": "India/United States",
+      "birth_date": "October 19, 1910",
+      "death_date": "August 21, 1995",
+      "contribution": "White dwarf mass limit theory",
+      "known_for": "Chandrasekhar limit, stellar evolution",
+      "awards": [
+        "Nobel Prize in Physics (1983)"
+      ],
+      "legacy": "Chandra X-ray Observatory named after him",
+      "institutions": [
+        "University of Chicago"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/chandrasekhar.jpg"
+    },
+    {
+      "name": "Vera Cooper Rubin",
+      "country": "United States",
+      "birth_date": "July 23, 1928",
+      "death_date": "December 25, 2016",
+      "contribution": "Provided evidence for dark matter existence",
+      "known_for": "Galaxy rotation curves, dark matter research",
+      "legacy": "Vera C. Rubin Observatory named after her",
+      "institutions": [
+        "Carnegie Institution for Science"
+      ],
+      "public_image": "https://www.carnegiescience.edu/sites/default/files/styles/large/public/vera-rubin.jpg"
+    },
+    {
+      "name": "Nancy Grace Roman",
+      "country": "United States",
+      "birth_date": "May 16, 1925",
+      "death_date": "December 25, 2018",
+      "contribution": "Chief of Astronomy at NASA, Hubble Space Telescope development",
+      "known_for": "Mother of the Hubble Space Telescope",
+      "legacy": "Nancy Grace Roman Space Telescope named after her",
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/nancy_grace_roman.jpg"
+    },
+    {
+      "name": "Katherine Johnson",
+      "country": "United States",
+      "birth_date": "August 26, 1918",
+      "death_date": "February 24, 2020",
+      "contribution": "Mathematical calculations for early NASA missions",
+      "known_for": "Apollo and Mercury mission calculations",
+      "awards": [
+        "Presidential Medal of Freedom (2015)"
+      ],
+      "legacy": "Subject of 'Hidden Figures' book and movie",
+      "institutions": [
+        "NASA Langley Research Center"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/26646856911_ca242812ee_o.jpg"
+    },
+    {
+      "name": "Meghnad Saha",
+      "country": "India",
+      "birth_date": "October 6, 1893",
+      "death_date": "February 16, 1956",
+      "contribution": "Saha ionization equation for stellar spectra",
+      "known_for": "Linking stellar temperature to spectral lines",
+      "legacy": "Foundation of stellar astrophysics",
+      "institutions": [
+        "University of Calcutta"
+      ],
+      "public_image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Meghnad_Saha.jpg"
+    },
+    {
+      "name": "Shubhanshu Shukla",
+      "country": "India",
+      "birth_date": "October 10, 1985",
+      "contribution": "Currently in space on Axiom Mission 4",
+      "known_for": "Second Indian in space, first ISRO-selected astronaut in space",
+      "current_status": "Currently in space (as of 2025)",
+      "institutions": [
+        "ISRO"
+      ],
+      "public_image": "https://www.isro.gov.in/sites/default/files/styles/full_width/public/2024-01/axiom-4-crew.jpg"
+    },
+    {
+      "name": "Michael Collins",
+      "country": "United States",
+      "birth_date": "October 31, 1930",
+      "death_date": "April 28, 2021",
+      "contribution": "Command Module Pilot of Apollo 11; flew Gemini 10; first person to perform more than one EVA",
+      "known_for": "Orbiting the Moon solo while Neil Armstrong and Buzz Aldrin landed",
+      "awards": [
+        "Presidential Medal of Freedom",
+        "Congressional Gold Medal"
+      ],
+      "institutions": [
+        "NASA",
+        "National Air and Space Museum"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/as11-36-5355hr.jpg"
+    },
+    {
+      "name": "Charles Frank Bolden Jr.",
+      "country": "United States",
+      "birth_date": "August 19, 1946",
+      "contribution": "Four-time Space Shuttle astronaut; 12th NASA Administrator (2009-2017)",
+      "known_for": "Oversaw transition from Shuttle to Commercial Crew & SLS era",
+      "awards": [
+        "NASA Exceptional Service Medal",
+        "Defense Superior Service Medal"
+      ],
+      "institutions": [
+        "NASA",
+        "U.S. Marine Corps"
+      ],
+      "public_image": "https://m.media-amazon.com/images/M/MV5BYmQwOWE1YjAtZTcyYS00OGQ0LTg1NTUtZjJiN2Q2YTQ3ZmUwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+    },
+    {
+      "name": "Sergei Pavlovich Korolev",
+      "country": "Soviet Union (Ukraine/Russia)",
+      "birth_date": "January 12, 1907",
+      "death_date": "January 14, 1966",
+      "contribution": "Chief Designer of Soviet rocket and spacecraft programs",
+      "known_for": "Sputnik, Vostok, Voskhod, early Soyuz design",
+      "awards": [
+        "Hero of Socialist Labor (twice)",
+        "Lenin Prize"
+      ],
+      "institutions": [
+        "OKB-1 (now RKK Energia)"
+      ],
+      "public_image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sergey_Korolyov.jpg"
+    },
+    {
+      "name": "Elon Reeve Musk",
+      "country": "South Africa/United States",
+      "birth_date": "June 28, 1971",
+      "contribution": "Founded SpaceX and drove development of reusable launch vehicles",
+      "known_for": "Falcon 9, Starship, commercial crew & cargo to ISS",
+      "awards": [
+        "Royal Aeronautical Society Gold Medal",
+        "Heinlein Prize"
+      ],
+      "institutions": [
+        "SpaceX"
+      ],
+      "public_image": "https://imageio.forbes.com/specials-images/imageserve/5c76bcaaa7ea43100043c836/0x0.jpg"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "country": "United States",
+      "birth_date": "November 23, 1963",
+      "contribution": "President & COO of SpaceX; built multibillion-dollar launch manifest",
+      "known_for": "Operational leadership enabling high-cadence reusable launches",
+      "awards": [
+        "TIME 100 (2020)",
+        "Forbes Most Powerful Women"
+      ],
+      "institutions": [
+        "SpaceX"
+      ],
+      "public_image": "https://media.spacex.com/gwynne-shotwell.jpg"
+    },
+    {
+      "name": "Guion Stewart Bluford Jr.",
+      "country": "United States",
+      "birth_date": "November 22, 1942",
+      "contribution": "First African American in space; four Shuttle flights",
+      "known_for": "STS-8, STS-61A, STS-39, STS-53 missions",
+      "awards": [
+        "NASA Distinguished Service Medal",
+        "International Space Hall of Fame"
+      ],
+      "institutions": [
+        "NASA",
+        "U.S. Air Force"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/guion_bluford.jpg"
+    },
+    {
+      "name": "Gennady Ivanovich Padalka",
+      "country": "Russia",
+      "birth_date": "June 21, 1958",
+      "contribution": "Record 878 cumulative days in space over five missions",
+      "known_for": "Four-time ISS Commander",
+      "awards": [
+        "Hero of the Russian Federation"
+      ],
+      "institutions": [
+        "Roscosmos",
+        "Russian Air Force"
+      ],
+      "public_image": "https://www.roscosmos.ru/media/files/2020/11/18/padalka.jpg"
+    },
+    {
+      "name": "Anousheh Ansari",
+      "country": "Iran/United States",
+      "birth_date": "September 12, 1966",
+      "contribution": "First female self-funded space traveler; CEO of XPRIZE",
+      "known_for": "Soyuz TMA-9 flight to ISS (2006)",
+      "awards": [
+        "Ellis Island Medal of Honor"
+      ],
+      "institutions": [
+        "XPRIZE Foundation",
+        "Prodea Systems"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UqLsTro0KUpXbyttHPBvx1TjkT5r-am5dg&s"
+    },
+    {
+      "name": "Oleg Dmitriyevich Kononenko",
+      "country": "Russia",
+      "birth_date": "June 21, 1964",
+      "contribution": "Set new world record for total time in space (>1,000 days, 2024-25)",
+      "known_for": "Multiple long-duration ISS missions",
+      "awards": [
+        "Hero of the Russian Federation"
+      ],
+      "institutions": [
+        "Roscosmos"
+      ],
+      "public_image": "https://www.roscosmos.ru/media/files/2024/02/05/kononenko.jpg"
+    },
+    {
+      "name": "James Edwin Webb",
+      "country": "United States",
+      "birth_date": "October 7, 1906",
+      "death_date": "March 27, 1992",
+      "contribution": "NASA Administrator (1961-1968) during Mercury, Gemini, early Apollo",
+      "known_for": "Building political & budget support for Moon landing",
+      "awards": [
+        "Presidential Medal of Freedom"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/james_webb.jpg"
+    },
+    {
+      "name": "Margaret Heafield Hamilton",
+      "country": "United States",
+      "birth_date": "August 17, 1936",
+      "contribution": "Led Apollo onboard flight-software development at MIT",
+      "known_for": "Coined term 'software engineering'; Apollo 11 code",
+      "awards": [
+        "Presidential Medal of Freedom (2016)"
+      ],
+      "institutions": [
+        "MIT Instrumentation Lab"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/margaret_hamilton.jpg"
+    },
+    {
+      "name": "Colonel Eileen Marie Collins",
+      "country": "United States",
+      "birth_date": "November 19, 1956",
+      "contribution": "First female Shuttle pilot and commander",
+      "known_for": "Commanded STS-114 Return-to-Flight (2005)",
+      "awards": [
+        "NASA Outstanding Leadership Medal"
+      ],
+      "institutions": [
+        "NASA",
+        "U.S. Air Force"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwpB-cf9QecFq2q-mOM_T_T4SpiAwOVrXyw&s"
+    },
+    {
+      "name": "Sharon Christa McAuliffe",
+      "country": "United States",
+      "birth_date": "September 2, 1948",
+      "death_date": "January 28, 1986",
+      "contribution": "Teacher selected for Space Shuttle 'Teacher in Space' project",
+      "known_for": "Perished in Challenger disaster (STS-51L)",
+      "awards": [
+        "Congressional Space Medal of Honor (posthumous)"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/christa_mcauliffe.jpg"
+    },
+    {
+      "name": "Charles 'Pete' Conrad Jr.",
+      "country": "United States",
+      "birth_date": "June 2, 1930",
+      "death_date": "July 8, 1999",
+      "contribution": "Apollo 12 Commander; third human to walk on Moon",
+      "known_for": "Gemini 5,11; Apollo 12; Skylab 2 missions",
+      "awards": [
+        "Congressional Space Medal of Honor"
+      ],
+      "institutions": [
+        "NASA",
+        "U.S. Navy"
+      ],
+      "public_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Charles_Conrad_%28S64-31465%29_%28cropped%29.jpg/1200px-Charles_Conrad_%28S64-31465%29_%28cropped%29.jpg"
+    },
+    {
+      "name": "John Watts Young",
+      "country": "United States",
+      "birth_date": "September 24, 1930",
+      "death_date": "January 5, 2018",
+      "contribution": "Six-flight astronaut; walked on Moon; flew first Shuttle",
+      "known_for": "Gemini 3,10; Apollo 10,16; STS-1, STS-9",
+      "awards": [
+        "Congressional Space Medal of Honor"
+      ],
+      "institutions": [
+        "NASA",
+        "U.S. Navy"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/john_young.jpg"
+    },
+    {
+      "name": "Christopher C. Kraft Jr.",
+      "country": "United States",
+      "birth_date": "February 28, 1924",
+      "death_date": "July 22, 2019",
+      "contribution": "Created Mission Control and flight director concepts",
+      "known_for": "Mercury & Gemini flight director; first NASA flight director",
+      "awards": [
+        "NASA Distinguished Service Medal"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81llq9f77tMCoKaTtoqBztjSncP9MY92ikQ&s"
+    },
+    {
+      "name": "Michael Douglas Griffin",
+      "country": "United States",
+      "birth_date": "November 1, 1949",
+      "contribution": "NASA Administrator (2005-2009); initiated Constellation, Orion",
+      "known_for": "Return-to-Moon architecture & Commercial Resupply contracts",
+      "awards": [
+        "IEEE Simon Ramo Medal"
+      ],
+      "institutions": [
+        "NASA",
+        "Johns Hopkins APL"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/michael_griffin.jpg"
+    },
+    {
+      "name": "Kip Stephen Thorne",
+      "country": "United States",
+      "birth_date": "June 1, 1940",
+      "contribution": "Theoretical physicist; co-founded LIGO gravitational-wave project",
+      "known_for": "Nobel Prize in Physics 2017; black-hole theory",
+      "awards": [
+        "Nobel Prize (2017)",
+        "Einstein Medal"
+      ],
+      "institutions": [
+        "Caltech"
+      ],
+      "public_image": "https://www.caltech.edu/sites/default/files/styles/media_crop/public/2021-10/Kip%20Thorne%20by%20Lance%20Hayashida.jpg"
+    },
+    {
+      "name": "Andrea Mia Ghez",
+      "country": "United States",
+      "birth_date": "June 16, 1965",
+      "contribution": "Measured mass of Milky Way’s central black hole Sagittarius A*",
+      "known_for": "Nobel Prize in Physics 2020",
+      "awards": [
+        "Nobel Prize (2020)"
+      ],
+      "institutions": [
+        "UCLA"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaMrq9M0PYHIK7jpkn2tWkk7T_QltmXLp1g&s"
+    },
+    {
+      "name": "Philip James Edwin Peebles",
+      "country": "Canada/United States",
+      "birth_date": "April 25, 1935",
+      "contribution": "Pioneering work on cosmic microwave background & cosmology",
+      "known_for": "Nobel Prize in Physics 2019",
+      "awards": [
+        "Nobel Prize (2019)"
+      ],
+      "institutions": [
+        "Princeton University"
+      ],
+      "public_image": "https://www.nobelprize.org/images/peebles-2019-press-1-1568x2328.jpg"
+    },
+    {
+      "name": "James Alfred Van Allen",
+      "country": "United States",
+      "birth_date": "September 7, 1914",
+      "death_date": "August 9, 2006",
+      "contribution": "Discovered Earth’s radiation belts (Van Allen belts)",
+      "known_for": "Explorer 1 mission",
+      "awards": [
+        "National Medal of Science"
+      ],
+      "institutions": [
+        "University of Iowa"
+      ],
+      "public_image": "https://physics.uiowa.edu/sites/physics.uiowa.edu/files/styles/large/public/2019-07/van-allen.jpg"
+    },
+    {
+      "name": "George Ellery Hale",
+      "country": "United States",
+      "birth_date": "June 29, 1868",
+      "death_date": "February 21, 1938",
+      "contribution": "Founded major observatories; discovered solar magnetic fields",
+      "known_for": "Mount Wilson & Palomar telescopes",
+      "awards": [
+        "Bruce Medal",
+        "Gold Medal of the RAS"
+      ],
+      "institutions": [
+        "Carnegie Institution"
+      ],
+      "public_image": "https://carnegiescience.edu/sites/default/files/styles/large/public/george-ellery-hale.jpg"
+    },
+    {
+      "name": "Beatrice Muriel Hill Tinsley",
+      "country": "New Zealand/United States",
+      "birth_date": "January 27, 1941",
+      "death_date": "March 23, 1981",
+      "contribution": "Revolutionized understanding of galaxy evolution",
+      "known_for": "Tinsley model of galactic chemical evolution",
+      "awards": [
+        "Henry Draper Medal (posthumous)"
+      ],
+      "institutions": [
+        "Yale University"
+      ],
+      "public_image": "https://static01.nyt.com/images/2018/08/06/obituaries/06overlooked-Tinsley/00overlooked-Tinsley-videoSixteenByNineJumbo1600.jpg"
+    },
+    {
+      "name": "Sara Seager",
+      "country": "Canada/United States",
+      "birth_date": "July 21, 1971",
+      "contribution": "Leading exoplanet researcher; atmospheric biosignature studies",
+      "known_for": "Seager equation; MIT Professor",
+      "awards": [
+        "MacArthur Fellowship"
+      ],
+      "institutions": [
+        "MIT"
+      ],
+      "public_image": "https://news.mit.edu/sites/default/files/images/201910/MIT-Sara-Seager-01-press.jpg"
+    },
+    {
+      "name": "Michel G. E. Mayor",
+      "country": "Switzerland",
+      "birth_date": "January 12, 1942",
+      "contribution": "Co-discoverer of first exoplanet orbiting Sun-like star (51 Pegasi b)",
+      "known_for": "Nobel Prize in Physics 2019",
+      "awards": [
+        "Nobel Prize (2019)"
+      ],
+      "institutions": [
+        "University of Geneva"
+      ],
+      "public_image": "https://www.nobelprize.org/images/mayor-2019-press-1-1568x2328.jpg"
+    },
+    {
+      "name": "Didier Queloz",
+      "country": "Switzerland/United Kingdom",
+      "birth_date": "February 23, 1966",
+      "contribution": "Co-discoverer of exoplanet 51 Pegasi b; exoplanet demographics",
+      "known_for": "Nobel Prize in Physics 2019",
+      "awards": [
+        "Nobel Prize (2019)"
+      ],
+      "institutions": [
+        "University of Cambridge",
+        "University of Geneva"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMF9n-j-5chs_On5QLh30L6VdIRv3pigsSw&s"
+    },
+    {
+      "name": "Sir Fred Hoyle",
+      "country": "United Kingdom",
+      "birth_date": "June 24, 1915",
+      "death_date": "August 20, 2001",
+      "contribution": "Stellar nucleosynthesis theory; coined 'Big Bang' (ironically)",
+      "known_for": "B^2FH paper; steady-state cosmology",
+      "awards": [
+        "Royal Medal",
+        "Crafoord Prize"
+      ],
+      "institutions": [
+        "Cambridge University"
+      ],
+      "public_image": "https://www.npg.org.uk/collections/search/portrait/mw08080/Sir-Fred-Hoyle"
+    },
+    {
+      "name": "Margaret Burbidge",
+      "country": "United Kingdom/United States",
+      "birth_date": "August 12, 1919",
+      "death_date": "April 5, 2020",
+      "contribution": "Co-author of B^2FH nucleosynthesis paper; first female AAS president",
+      "known_for": "Element formation in stars",
+      "awards": [
+        "Bruce Medal",
+        "National Medal of Science"
+      ],
+      "institutions": [
+        "UC San Diego"
+      ],
+      "public_image": "https://ucsdnews.ucsd.edu/news_uploads/margaret_burbidge.jpg"
+    },
+    {
+      "name": "Sir Arthur Eddington",
+      "country": "United Kingdom",
+      "birth_date": "December 28, 1882",
+      "death_date": "November 22, 1944",
+      "contribution": "1919 eclipse expedition proving General Relativity",
+      "known_for": "Eddington limit; stellar structure theory",
+      "awards": [
+        "Order of Merit",
+        "Gold Medal of the RAS"
+      ],
+      "institutions": [
+        "Cambridge University"
+      ],
+      "public_image": "https://www.npg.org.uk/collections/search/portrait/mw08079/Sir-Arthur-Eddington"
+    },
+    {
+      "name": "Lyman Spitzer Jr.",
+      "country": "United States",
+      "birth_date": "June 26, 1914",
+      "death_date": "March 31, 1997",
+      "contribution": "Proposed space telescopes; namesake of Spitzer Space Telescope",
+      "known_for": "Interstellar medium & plasma physics",
+      "awards": [
+        "National Medal of Science"
+      ],
+      "institutions": [
+        "Princeton University"
+      ],
+      "public_image": "https://www.aps.org/publications/apsnews/200703/images/spitzer.jpg"
+    },
+    {
+      "name": "George Gamow",
+      "country": "Ukraine/United States",
+      "birth_date": "March 4, 1904",
+      "death_date": "August 19, 1968",
+      "contribution": "Big Bang nucleosynthesis and CMB prediction; popular science author",
+      "known_for": "Alpher-Bethe-Gamow paper",
+      "awards": [
+        "Kalinga Prize"
+      ],
+      "institutions": [
+        "George Washington University"
+      ],
+      "public_image": "https://www.gwu.edu/~magazine/archive/2001_gw_magazine/images/feature_gamow.jpg"
+    },
+    {
+      "name": "Maxime Allen Faget",
+      "country": "United States",
+      "birth_date": "August 26, 1921",
+      "death_date": "October 9, 2004",
+      "contribution": "Chief engineer of Mercury capsule; designs for Gemini, Apollo, Shuttle",
+      "known_for": "Mercury spacecraft shape & LES",
+      "awards": [
+        "National Medal of Technology"
+      ],
+      "institutions": [
+        "NASA JSC"
+      ],
+      "public_image": "https://history.nasa.gov/SP-4205/images/p465.jpg"
+    },
+    {
+      "name": "John Cornelius Houbolt",
+      "country": "United States",
+      "birth_date": "April 10, 1919",
+      "death_date": "April 15, 2014",
+      "contribution": "Advocated Lunar Orbit Rendezvous concept enabling Apollo landing",
+      "known_for": "Key engineer of Apollo mission mode",
+      "awards": [
+        "NASA Exceptional Scientific Achievement Medal"
+      ],
+      "institutions": [
+        "NASA Langley"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/john_houbolt.jpg"
+    },
+    {
+      "name": "Robert Rowe Gilruth",
+      "country": "United States",
+      "birth_date": "October 8, 1913",
+      "death_date": "August 17, 2000",
+      "contribution": "First director of NASA Manned Spacecraft Center; led Mercury/Gemini/Apollo",
+      "known_for": "Managing U.S. human spaceflight 1961-72",
+      "awards": [
+        "Presidential Medal of Freedom"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/robert_gilruth.jpg"
+    },
+    {
+      "name": "George Edwin Mueller",
+      "country": "United States",
+      "birth_date": "July 16, 1918",
+      "death_date": "October 12, 2015",
+      "contribution": "NASA Associate Administrator for Manned Spaceflight; instituted 'all-up' Saturn V testing",
+      "known_for": "Streamlining Apollo schedule",
+      "awards": [
+        "National Medal of Science"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://history.nasa.gov/SP-4205/images/p466.jpg"
+    },
+    {
+      "name": "Eugene Francis 'Gene' Kranz",
+      "country": "United States",
+      "birth_date": "August 17, 1933",
+      "contribution": "Legendary NASA flight director; Apollo 13 rescue lead",
+      "known_for": "\"Failure is not an option\" ethos",
+      "awards": [
+        "Presidential Medal of Freedom"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/gene_kranz.jpg"
+    },
+    {
+      "name": "Valery Vladimirovich Polyakov",
+      "country": "Russia",
+      "birth_date": "April 27, 1942",
+      "death_date": "September 19, 2022",
+      "contribution": "Single-mission space endurance record (437 days on Mir)",
+      "known_for": "Mir Expedition 22/23 physician-cosmonaut",
+      "awards": [
+        "Hero of the Russian Federation"
+      ],
+      "institutions": [
+        "Roscosmos"
+      ],
+      "public_image": "https://www.roscosmos.ru/media/files/2022/09/19/polyakov.jpg"
+    },
+    {
+      "name": "Shannon Matilda Wells Lucid",
+      "country": "United States",
+      "birth_date": "January 14, 1943",
+      "contribution": "Held female space-endurance record (188 days, Mir 1996)",
+      "known_for": "Mir Expedition 21 NASA astronaut",
+      "awards": [
+        "Congressional Space Medal of Honor"
+      ],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/shannon_lucid.jpg"
+    },
+    {
+      "name": "Yang Liwei",
+      "country": "China",
+      "birth_date": "June 21, 1965",
+      "contribution": "First Chinese national in space",
+      "known_for": "Shenzhou 5 mission (2003)",
+      "awards": [
+        "Hero of the People’s Republic of China"
+      ],
+      "institutions": [
+        "China National Space Administration"
+      ],
+      "public_image": "https://www.cmse.gov.cn/zyzt/zyzt/2013-06/25/content_37063.html"
+    },
+    {
+      "name": "Prince Sultan bin Salman Al Saud",
+      "country": "Saudi Arabia",
+      "birth_date": "June 27, 1956",
+      "contribution": "First Arab Muslim astronaut; flew aboard Shuttle STS-51G",
+      "known_for": "Deploying Arabsat-1B satellite (1985)",
+      "awards": [
+        "Order of King Abdulaziz"
+      ],
+      "institutions": [
+        "NASA",
+        "Saudi Space Commission"
+      ],
+      "public_image": "https://www.saudispace.gov.sa/wp-content/uploads/2021/06/Prince-Sultan-bin-Salman.jpg"
+    },
+    {
+      "name": "Sheikh Muszaphar Shukor",
+      "country": "Malaysia",
+      "birth_date": "July 27, 1972",
+      "contribution": "First Malaysian in space; Soyuz TMA-11 to ISS (2007)",
+      "known_for": "Angkasawan program science experiments",
+      "awards": [
+        "National Hero of Malaysia"
+      ],
+      "institutions": [
+        "Universiti Kebangsaan Malaysia"
+      ],
+      "public_image": "https://www.ukm.my/news/wp-content/uploads/2015/10/Sheikh-Muszaphar-Shukor-UKM.jpg"
+    },
+    {
+      "name": "Jessica Ulrika Meir",
+      "country": "United States/Sweden",
+      "birth_date": "July 1, 1977",
+      "contribution": "Participated in first all-female spacewalk (2019)",
+      "known_for": "ISS Expedition 61/62 flight engineer",
+      "awards": [],
+      "institutions": [
+        "NASA"
+      ],
+      "public_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/jessica_meir.jpg"
+    },
+    {
+      "name": "Mary Wallace 'Wally' Funk",
+      "country": "United States",
+      "birth_date": "February 1, 1939",
+      "contribution": "Member of Mercury 13; oldest person to reach space (Blue Origin NS-16, 2021)",
+      "known_for": "Breaking age barrier at 82",
+      "awards": [
+        "FAA Wright Brothers Master Pilot Award"
+      ],
+      "institutions": [
+        "Blue Origin"
+      ],
+      "public_image": "https://www.blueorigin.com/static/images/team/wally-funk.jpg"
+    },
+    {
+      "name": "Chiaki Mukai",
+      "country": "Japan",
+      "birth_date": "May 6, 1952",
+      "contribution": "First Japanese woman in space; two Shuttle flights",
+      "known_for": "STS-65, STS-95 medical research",
+      "awards": [
+        "Prime Minister’s Award of Japan"
+      ],
+      "institutions": [
+        "JAXA"
+      ],
+      "public_image": "https://cdn.sanity.io/images/2vtv415l/production/5a28a1f15d251fba14d02a2ca44d7c40a8ccfe32-3298x4122.jpg?rect=0,742,3298,2638&w=2400&h=1920&fit=max"
+    },
+    {
+      "name": "Oleg Germanovich Artemyev",
+      "country": "Russia",
+      "birth_date": "December 28, 1970",
+      "contribution": "ISS Commander; extensive EVA experience",
+      "known_for": "Soyuz TMA-12M, MS-08, MS-21 missions",
+      "awards": [
+        "Hero of the Russian Federation"
+      ],
+      "institutions": [
+        "Roscosmos"
+      ],
+      "public_image": "https://www.roscosmos.ru/media/files/2022/03/18/oleg_artemyev.jpg"
+    },
+    {
+      "name": "Nikolai Semyonovich Kardashev",
+      "country": "Russia",
+      "birth_date": "April 25, 1932",
+      "death_date": "August 3, 2019",
+      "contribution": "Proposed Kardashev scale for classifying civilizations by energy use",
+      "known_for": "Radio astronomy, SETI pioneer",
+      "awards": [
+        "USSR State Prize"
+      ],
+      "institutions": [
+        "Lebedev Physical Institute"
+      ],
+      "public_image": "https://www.inasan.ru/wp-content/uploads/2019/08/kardashev.jpg"
+    },
+    {
+      "name": "Edward C. Stone",
+      "country": "United States",
+      "birth_date": "January 23, 1936",
+      "contribution": "Project Scientist for Voyager missions (1972-2022)",
+      "known_for": "Guiding discoveries of outer Solar System & interstellar probe",
+      "awards": [
+        "National Medal of Science",
+        "Shaw Prize"
+      ],
+      "institutions": [
+        "Caltech",
+        "JPL"
+      ],
+      "public_image": "https://www.jpl.nasa.gov/images/ed-stone"
+    },
+    {
+      "name": "Carolyn C. Porco",
+      "country": "United States",
+      "birth_date": "March 6, 1953",
+      "contribution": "Leader of Cassini Imaging Science Team; Voyager imaging",
+      "known_for": "Discoveries about Saturn’s rings and moons",
+      "awards": [
+        "Carl Sagan Medal"
+      ],
+      "institutions": [
+        "University of Colorado",
+        "Space Science Institute"
+      ],
+      "public_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpozGS1FCUXMVdj8t3LtL1IzaIK7GhZ1f1SQ&s"
+    },
+    {
+      "name": "Geoffrey William Marcy",
+      "country": "United States",
+      "birth_date": "September 29, 1954",
+      "contribution": "Pioneering detection of exoplanets via Doppler spectroscopy",
+      "known_for": "Discovery of >70 exoplanets before 2010",
+      "awards": [
+        "Shaw Prize in Astronomy"
+      ],
+      "institutions": [
+        "University of California, Berkeley"
+      ],
+      "public_image": "https://astro.berkeley.edu/wp-content/uploads/2019/07/geoff-marcy.jpg"
+    },
+    {
+      "name": "Clyde William Tombaugh",
+      "country": "United States",
+      "birth_date": "February 4, 1906",
+      "death_date": "January 17, 1997",
+      "contribution": "Discovered dwarf planet Pluto (1930)",
+      "known_for": "Pluto discovery at Lowell Observatory",
+      "awards": [
+        "Jackson-Gwilt Medal"
+      ],
+      "institutions": [
+        "Lowell Observatory"
+      ],
+      "public_image": "https://lowell.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-09-at-4.46.36-PM-1-e1613522167835.png"
+    },
+    {
+      "name": "Bruce McCandless II",
+      "country": "United States",
+      "birth_date": "June 8, 1937",
+      "death_date": "December 21, 2017",
+      "contribution": "Made first untethered EVA using Manned Maneuvering Unit (1984)",
+      "known_for": "Iconic EVA photograph during STS-41B",
+      "awards": [
+        "NASA Space Flight Medal"
+      ],
+      "institutions": [
+        "NASA",
+        "U.S. Navy"
+      ],
+      "public_image": "https://m.media-amazon.com/images/M/MV5BY2Q1MWIzN2UtNTBmOS00NjU5LWE4NTItYTlhOTc5NTYxNTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}

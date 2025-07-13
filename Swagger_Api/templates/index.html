@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Exploration API - Designed by Aradhya Pavan</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-rocket"></i>
+                <span>Space API</span>
+            </div>
+            <div class="nav-links">
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#features" class="nav-link">Features</a>
+                <a href="#endpoints" class="nav-link">API Endpoints</a>
+                <a href="/swagger/" class="nav-link swagger-btn">
+                    <i class="fas fa-code"></i> Swagger UI
+                </a>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1 class="hero-title">
+                    <span class="gradient-text">Space Exploration API</span>
+                    <div class="typing-animation">
+                        <span class="typed-text"></span>
+                        <span class="cursor">&nbsp;</span>
+                    </div>
+                </h1>
+                <p class="hero-subtitle">
+                    A comprehensive REST API for space exploration data including planets, rockets, astronauts, 
+                    telescopes, space agencies, museums, notable contributors, and NASA imagery.
+                </p>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <i class="fas fa-book-open"></i>
+                        <span class="stat-number" data-original="{{ stats.terms if stats else 330 }}">{{ stats.terms if stats else 330 }}</span>
+                        <span class="stat-label">Terminologies</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-building"></i>
+                        <span class="stat-number" data-original="{{ stats.agencies if stats else 12 }}">{{ stats.agencies if stats else 12 }}</span>
+                        <span class="stat-label">Space Agencies</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-globe"></i>
+                        <span class="stat-number" data-original="{{ stats.planets if stats else 8 }}">{{ stats.planets if stats else 8 }}</span>
+                        <span class="stat-label">Planets</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-rocket"></i>
+                        <span class="stat-number" data-original="{{ stats.rockets if stats else 25 }}">{{ stats.rockets if stats else 25 }}</span>
+                        <span class="stat-label">Rockets</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-user-astronaut"></i>
+                        <span class="stat-number" data-original="{{ stats.astronauts if stats else 41 }}">{{ stats.astronauts if stats else 41 }}</span>
+                        <span class="stat-label">Astronauts</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-telescope"></i>
+                        <span class="stat-number" data-original="{{ stats.telescopes if stats else 24 }}">{{ stats.telescopes if stats else 24 }}</span>
+                        <span class="stat-label">Telescopes</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-star"></i>
+                        <span class="stat-number" data-original="{{ stats.people if stats else 102 }}">{{ stats.people if stats else 102 }}</span>
+                        <span class="stat-label">Notable People</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-university"></i>
+                        <span class="stat-number" data-original="{{ stats.museums if stats else 87 }}">{{ stats.museums if stats else 87 }}</span>
+                        <span class="stat-label">Space Museums</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-flag"></i>
+                        <span class="stat-number" data-original="{{ stats.countries if stats else 43 }}">{{ stats.countries if stats else 43 }}</span>
+                        <span class="stat-label">Countries</span>
+                    </div>
+                </div>
+                <div class="hero-buttons">
+                    <a href="/swagger/" class="btn btn-primary">
+                        <i class="fas fa-rocket"></i>
+                        Explore API
+                    </a>
+                    <a href="#endpoints" class="btn btn-secondary">
+                        <i class="fas fa-list"></i>
+                        View Endpoints
+                    </a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="planet-system">
+                    <div class="sun"></div>
+                    <div class="orbit orbit-1">
+                        <div class="planet planet-1"></div>
+                    </div>
+                    <div class="orbit orbit-2">
+                        <div class="planet planet-2"></div>
+                    </div>
+                    <div class="orbit orbit-3">
+                        <div class="planet planet-3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="gradient-text">API Features</span>
+            </h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <h3>Advanced Search</h3>
+                    <p>Powerful search and filtering capabilities across all data categories with multiple parameters.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-tachometer-alt"></i>
+                    </div>
+                    <h3>High Performance</h3>
+                    <p>Optimized JSON responses with efficient data loading and caching for lightning-fast queries.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-mobile-alt"></i>
+                    </div>
+                    <h3>RESTful Design</h3>
+                    <p>Clean, intuitive REST API design following industry best practices and standards.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-book"></i>
+                    </div>
+                    <h3>Swagger Documentation</h3>
+                    <p>Interactive API documentation with Swagger UI for easy testing and integration.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Reliable & Stable</h3>
+                    <p>Built with Flask-RESTX for robust error handling and consistent API responses.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-satellite"></i>
+                    </div>
+                    <h3>NASA Integration</h3>
+                    <p>Direct integration with NASA Images API for real-time space imagery and data.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- API Endpoints Section -->
+    <section id="endpoints" class="endpoints">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="gradient-text">API Endpoints</span>
+            </h2>
+            <div class="endpoints-grid">
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-book-open"></i>
+                        <h3>Space Terminology</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/terms/</code>
+                            <p>Get all space terms with filtering</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/terms/{id}</code>
+                            <p>Get specific term by ID</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-building"></i>
+                        <h3>Space Agencies</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/agencies/</code>
+                            <p>Get all space agencies</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/agencies/{id}</code>
+                            <p>Get specific agency</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-globe"></i>
+                        <h3>Planets</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/planets/</code>
+                            <p>Get all planets information</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/planets/{id}</code>
+                            <p>Get specific planet details</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-rocket"></i>
+                        <h3>Rockets & Launch Vehicles</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/rockets/</code>
+                            <p>Get all rockets and launch vehicles</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/rockets/{id}</code>
+                            <p>Get specific rocket details</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-user-astronaut"></i>
+                        <h3>Astronauts</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/astronauts/</code>
+                            <p>Get all astronauts and cosmonauts</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/astronauts/{id}</code>
+                            <p>Get specific astronaut</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-telescope"></i>
+                        <h3>Telescopes</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/telescopes/</code>
+                            <p>Get all telescopes and observatories</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/telescopes/{id}</code>
+                            <p>Get specific telescope</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-university"></i>
+                        <h3>Space Museums</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/museums/</code>
+                            <p>Get all space museums and centers</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/museums/{name}</code>
+                            <p>Get specific museum details</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-star"></i>
+                        <h3>Notable People</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/people/</code>
+                            <p>Get notable space contributors</p>
+                        </div>
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/people/{name}</code>
+                            <p>Get specific person details</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-header">
+                        <i class="fas fa-images"></i>
+                        <h3>NASA Images</h3>
+                    </div>
+                    <div class="endpoint-list">
+                        <div class="endpoint-item">
+                            <span class="method get">GET</span>
+                            <code>/api/images/</code>
+                            <p>Search NASA space images</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <div class="footer-logo">
+                        <i class="fas fa-rocket"></i>
+                        <span>Space Exploration API</span>
+                    </div>
+                    <p>Designed and Developed by <strong>Aradhya Pavan</strong></p>
+                    <p>Comprehensive space data at your fingertips</p>
+                </div>
+                <div class="footer-links">
+                    <div class="link-group">
+                        <h4>API</h4>
+                        <a href="/swagger/">Documentation</a>
+                        <a href="/api/">Base URL</a>
+                        <a href="#endpoints">Endpoints</a>
+                    </div>
+                    <div class="link-group">
+                        <h4>Resources</h4>
+                        <a href="https://api.nasa.gov/">NASA API</a>
+                        <a href="https://flask-restx.readthedocs.io/">Flask-RESTX</a>
+                        <a href="https://swagger.io/">Swagger</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Space Exploration API. Designed and Developed by Aradhya Pavan.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
